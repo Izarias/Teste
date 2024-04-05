@@ -1,4 +1,4 @@
-# Welcome to Pedro
+# Welcome to site aleatorio
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
