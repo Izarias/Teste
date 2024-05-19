@@ -1,5 +1,11 @@
+### Consultar Seguro Desemprego
+
+A tabela x mostra quando o usuário(trabalhador) consulta requerimentos de Seguro Desemprego.
+
+<details>
+  <summary size="20"><b> Tabela x: Consultar seguro desemprego. </b></summary> 
 <center>
-Tabela 3: Caso de uso UC01
+Tabela x: Caso de uso UC00
 
 | UC01                | Solicitar Benefício                                              |
 | ------------------- | ---------------------------------------------------------------- |
@@ -17,3 +23,4 @@ Tabela 3: Caso de uso UC01
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
 </center>
+
