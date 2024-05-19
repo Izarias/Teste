@@ -1,6 +1,6 @@
 ## Suplementares
 
-A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia escolhida, esses requisitos se referem a Requisitos de Implementação, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.
+A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia escolhida, esses requisitos podem ser classificados como Requisitos de Implementação, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.
 
 ### Requisitos de implementação
 
