@@ -1,15 +1,32 @@
-## Suportabilidade
+## Suplementares
 
-A tabela x a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
+A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia escolhida, esses requisitos se referem a Requisitos de Implementação, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.
 
-<font><p style="text-align: center">Tabela x - Requisitos de Suportabilidade.</p></font>
+### Requisitos de implementação
 
-| ID    | Descrição                                                                                                                                                                                                                                                                  |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SUP01 | O sistema deve registrar logs detalhados de eventos e atividades do aplicativo para facilitar a depuração e o monitoramento do desempenho.                  |
-| SUP02 | O sistema deve possuir documentação completa e atualizada para o código-fonte do aplicativo, incluindo instruções de instalação, configuração e uso de APIs.|
-| SUP03 | O sistema deve Implementar um gerenciamento robusto de erros e exceções para lidar com falhas inesperadas e garantir uma experiência do usuário suave.      |
-| SUP04 | O sistema deve possuir uma uma arquitetura flexível e modular, permitindo fácil manutenção e adição de novos recursos no futuro.                            |
-| SUP05 | O sistema deve ser responsivo e compatível com uma variedade de dispositivos móveis com diferentes tamanhos e resoluções de tela.                           |
+<font><p style="text-align: center">Tabela x - Requisitos de Implementação.</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
+| ID    | Descrição                                                                                                                                                   |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| F12   | Integração com eSocial                                                                                                                                         |
+| F13   | Integração com gov.br                                                                                                                                          |
+| F14   | Permitir integração com vários outros software                                                                                                                |
+| F17   | Estar adaptado para ser instalado em qualquer sistema operacional                                                                                             |
+| NF3 | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |
+| NF6 | Seguir os manuais de interface de acordo com o gov.br. |
+| NF8 | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e as práticas de segurança no controle de acesso à conta única. |
+| NF9 | Garantir as condições de preservação da privacidade das informações do cidadão. |
+| NF12 | Utilização de recursos como vocabulários controlados e taxonomias. |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
+
+### Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
+
+<font><p style="text-align: center">Tabela x - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
+
+| ID | Descrição |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NF6 | Seguir os manuais de interface de acordo com o gov.br. |
+| NF12 | Utilização de recursos como vocabulários controlados e taxonomias. |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
