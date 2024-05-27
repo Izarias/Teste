@@ -7,7 +7,7 @@
 | **Tipo de Requisito**      | Desempenho                                                                                                                                    |
 | **Descrição**              | O sistema deve processar solicitações da carteira de trabalho em no máximo 2 minutos                      |
 | **Justificativa/Racionalidade** | garantir uma experiência eficiente e satisfatória para os usuários, especialmente considerando o alto volume de solicitações esperadas devido à importância e à frequência de uso do serviço                   |
-| **Critérios de Aceitação** |  <li> O sistema deve processar solicitações da carteira de trabalho em no máximo 2 minutos <li>                                                       |
+| **Critérios de Aceitação** |  <li> O sistema deve processar solicitações da carteira de trabalho em no máximo 2 minutos                                                       |
 | **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
 | **Prioridade**             | Média Prioridade                                                                                                                                    |
 | **Interdependências**      | RNF06 (Conformidade com manuais de interface gov.br)                                                                                                   |
