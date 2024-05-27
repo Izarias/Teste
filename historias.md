@@ -1,4 +1,4 @@
-Claro, aqui estão as histórias de usuário no formato solicitado:
+
 
 ### HI24
 | Código História de Usuário | HU24 |
