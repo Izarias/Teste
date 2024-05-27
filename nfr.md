@@ -76,7 +76,6 @@
 
 </details>
 
-</details>
 
 <details>
   <summary size="20"><b>  Capacidade de Processamento de Transações </b></summary> 
@@ -96,10 +95,91 @@
 | **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
 | **Prioridade**             | Alta Prioridade                                                                                                                                    |
 | **Interdependências**      | RNF01 (O tempo de processamento das solicitações pode ser afetado pela capacidade de processamento de transações), RNF02 (A escalabilidade do sistema é necessária para suportar picos de uso) e RNF03 (Suporte ao aumento de volume de dados e usuários é essencial para manter a capacidade de processamento).                                                                                        |
-| **Notas e Comentários**    | É importante monitorar e testar continuamente o desempenho do sistema para garantir que a capacidade de processamento de 10.000 transações por segundo seja mantida.                                   |
+| **Notas e Comentários**    | Não foram encontradas documentações sobre os requisitos de desempenho do sistema                                   |
 
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
 </center>
 
 </details>
+
+<details>
+  <summary size="20"><b>  Tempo de Processamento de Solicitações com Taxa de Sucesso </b></summary> 
+ 
+</center>
+**Tabela y:** Tempo de Processamento de Solicitações com Taxa de Sucesso
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [RNF13](Elicitacao/RequisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Tempo de Processamento de Solicitações com Taxa de Sucesso                                                                                              |
+| **Tipo de Requisito**      | Desempenho                                                                                                                                           |
+| **Descrição**              | O sistema deve processar solicitações de carteira de trabalho em no máximo 2 minutos, com uma taxa de sucesso de 99%.                     |
+| **Justificativa/Racionalidade** | Garantir uma experiência eficiente e confiável para os usuários, minimizando erros e atrasos no processamento das solicitações de carteira de trabalho.                   |
+| **Critérios de Aceitação** | <li> O sistema deve processar solicitações de carteira de trabalho em no máximo 2 minutos. <li> O sistema deve manter uma taxa de sucesso de 99% no processamento das solicitações.                                                      |
+| **Origem/Fonte**           | [Análise de documentos e storytelling](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                   |
+| **Prioridade**             | Alta Prioridade                                                                                                                                       |
+| **Interdependências**      | RNF01 (Tempo de Processamento de Solicitações) e RNF03 (Suporte a Aumento de Volume).                                                                                         |
+| **Notas e Comentários**    | Não foram encontradas documentações sobre os requisitos de desempenho do sistema       |
+
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
+
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b>  Autenticação Biométrica Rápida </b></summary> 
+ 
+</center>
+**Tabela z:** Autenticação Biométrica Rápida
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [RNF15](Elicitacao/RequisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Autenticação Biométrica Rápida                                                                                              |
+| **Tipo de Requisito**      | Segurança/Desempenho                                                                                                                                    |
+| **Descrição**              | O acesso às funcionalidades principais do aplicativo deve exigir autenticação biométrica e ser completado em menos de 30 segundos.                     |
+| **Justificativa/Racionalidade** | Assegurar que o acesso ao aplicativo seja seguro e rápido, oferecendo uma experiência de usuário eficiente e protegida.                   |
+| **Critérios de Aceitação** | <li> O sistema deve completar a autenticação biométrica em menos de 30 segundos. <li> A autenticação biométrica deve ser necessária para acessar as funcionalidades principais do aplicativo.                                                      |
+| **Origem/Fonte**           | [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling.md)                                                                  |
+| **Prioridade**             | Alta Prioridade                                                                                                                                       |
+| **Interdependências**      | RNF08 (Segurança: Autenticação e Criptografia) e RNF03 (Suporte a Aumento de Volume, para garantir desempenho adequado durante picos de uso).                                                                                         |
+| **Notas e Comentários**    | Não foram encontradas documentações sobre os requisitos de desempenho do sistema                                   |
+
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b>  Atualização de Dados do Usuário  </b></summary> 
+ 
+</center>
+**Tabela a:** Atualização de Dados do Usuário
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [RNF16](Elicitacao/RequisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Atualização de Dados do Usuário                                                                                              |
+| **Tipo de Requisito**      | Desempenho/Usabilidade                                                                                                                                    |
+| **Descrição**              | O sistema deve permitir ao usuário atualizar seus dados em no máximo 15 minutos, sem a necessidade de intermediários, com uma taxa de sucesso de 95%.                     |
+| **Justificativa/Racionalidade** | Facilitar a manutenção de dados precisos e atualizados pelos próprios usuários, melhorando a eficiência do sistema e a satisfação do usuário.                   |
+| **Critérios de Aceitação** | <li> O sistema deve permitir ao usuário atualizar seus dados em no máximo 15 minutos. <li> O sistema deve manter uma taxa de sucesso de 95% nas atualizações de dados.                                                      |
+| **Origem/Fonte**           | [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling.md)                                                                  |
+| **Prioridade**             | Média Prioridade                                                                                                                                    |
+| **Interdependências**      | RNF03 (Suporte a Aumento de Volume) e RNF12 (Vocabulários Controlados e Taxonomias Padrão).                                                                                         |
+| **Notas e Comentários**    | Não foram encontradas documentações sobre os requisitos de desempenho do sistema                                   |
+
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
+
+
+
+
+
