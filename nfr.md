@@ -49,3 +49,29 @@
 </center>
 
 </details>
+
+<details>
+  <summary size="20"><b>  Suporte a Aumento de Volume Sem Degradação de Desempenho </b></summary> 
+ 
+</center>
+
+**Tabela x:** Suporte a Aumento de Volume Sem Degradação de Desempenho
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [RNF03](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Suporte a Aumento de Volume Sem Degradação de Desempenho                                                                                |
+| **Tipo de Requisito**      | Desempenho                                                                                                                                    |
+| **Descrição**              | O sistema deve suportar um aumento de 100% no volume de dados, transações e número de usuários sem degradação perceptível no desempenho        |
+| **Justificativa/Racionalidade** | A justificativa baseia-se na necessidade de garantir que o sistema possa crescer de forma eficiente e sustentável, acompanhando o aumento da demanda de usuários e transações sem comprometer a qualidade do serviço.         |
+| **Critérios de Aceitação** |  <li> O sistema deve suportar um aumento de 100% no volume de dados e transações sem uma degradação perceptível no desempenho. <li> O sistema deve suportar um aumento de 100% no número de usuários simultâneos sem comprometer o desempenho                                      |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
+| **Prioridade**             | Média Prioridade                                                                                                                                    |
+| **Interdependências**      | RNF01 (O tempo de processamento das solicitações pode ser afetado pelo aumento no volume de dados e usuários) e RNF02 (A escalabilidade do sistema é essencial para suportar o aumento de volume sem degradação de desempenho)                    |
+| **Notas e Comentários**    | Não foram encontradas documentações sobre os requisitos de desempenho do sistema                                   |
+
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
