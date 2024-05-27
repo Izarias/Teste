@@ -1,4 +1,7 @@
-
+<details>
+  <summary size="20"><b> HI24 - Participar de fóruns de discussão sobre temas trabalhistas </b></summary> 
+ 
+<center>
 
 ### HI24
 | Código História de Usuário | HU24 |
@@ -12,6 +15,15 @@
 | **Critérios de Aceitação** | <ul><li>Usuário deve conseguir acessar diferentes fóruns de discussão pelo aplicativo.</li><li>Usuário deve poder postar e responder a tópicos nos fóruns.</li><li>Os fóruns devem ser moderados para manter a relevância e respeito nas discussões.</li></ul> |
 | **Prioridade**             | Baixo |
 
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI25 - Acessar um canal de suporte direto pelo aplicativo </b></summary> 
+ 
+<center>
+
 ### HI25
 | Código História de Usuário | HU25 |
 |----------------------------|------|
@@ -24,6 +36,15 @@
 | **Critérios de Aceitação** | <ul><li>Usuário deve conseguir acessar o canal de suporte diretamente pelo aplicativo.</li><li>O suporte deve estar disponível durante o horário comercial.</li><li>As respostas devem ser rápidas e úteis para resolver as dúvidas ou problemas dos usuários.</li></ul> |
 | **Prioridade**             | Alto |
 
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI26 - Acessar um manual para o uso do aplicativo e possíveis dúvidas </b></summary> 
+ 
+<center>
+  
 ### HI26
 | Código História de Usuário | HU26 |
 |----------------------------|------|
@@ -35,3 +56,7 @@
 | **Por que ?**              | Para ter um guia de referência que ajude a entender e utilizar todas as funcionalidades do aplicativo |
 | **Critérios de Aceitação** | <ul><li>Manual deve estar disponível diretamente no aplicativo.</li><li>Manual deve cobrir todas as principais funcionalidades do aplicativo.</li><li>Usuário deve poder buscar por tópicos específicos no manual.</li></ul> |
 | **Prioridade**             | Médio |
+
+</center>
+
+</details>
