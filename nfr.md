@@ -75,3 +75,31 @@
 </center>
 
 </details>
+
+</details>
+
+<details>
+  <summary size="20"><b>  Capacidade de Processamento de Transações </b></summary> 
+ 
+</center>
+
+**Tabela x:** Capacidade de Processamento de Transações
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [RNF04](Elicitacao/RequisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Capacidade de Processamento de Transações                                                                                              |
+| **Tipo de Requisito**      | Desempenho                                                                                                                                    |
+| **Descrição**              | O sistema deve ser capaz de processar até 10.000 transações por segundo, mesmo em picos de uso nacional.                      |
+| **Justificativa/Racionalidade** | Garantir que o sistema possa lidar com altos volumes de transações simultâneas, especialmente durante picos de uso, para assegurar a eficiência e a continuidade dos serviços prestados.                   |
+| **Critérios de Aceitação** | <li> O sistema deve processar até 10.000 transações por segundo durante picos de uso sem degradação perceptível no desempenho.                                                       |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
+| **Prioridade**             | Alta Prioridade                                                                                                                                    |
+| **Interdependências**      | RNF01 (O tempo de processamento das solicitações pode ser afetado pela capacidade de processamento de transações), RNF02 (A escalabilidade do sistema é necessária para suportar picos de uso) e RNF03 (Suporte ao aumento de volume de dados e usuários é essencial para manter a capacidade de processamento).                                                                                        |
+| **Notas e Comentários**    | É importante monitorar e testar continuamente o desempenho do sistema para garantir que a capacidade de processamento de 10.000 transações por segundo seja mantida.                                   |
+
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
