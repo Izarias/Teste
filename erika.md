@@ -5,7 +5,7 @@
   
 A funcionalidade em questão, consiste em realizar a matrícula do discente em matérias durante o período permitido.
 
-Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/docs/Midia/storyboard/Matricula/WhatsApp Image 2024-05-21 at 18.49.51 (1).jpeg)
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Matricula/WhatsApp%20Image%202024-05-21%20at%2018.49.51%20(1).jpeg)
 
 Com base nisso, a avaliação do storyboard e da análise de tarefas para o aluguel de sala pode ser visualizado no vídeo 1:
 
