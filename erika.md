@@ -7,31 +7,32 @@ A funcionalidade em questão, consiste em realizar a matrícula do discente em m
 
 Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Matricula/WhatsApp%20Image%202024-05-21%20at%2018.49.51%20(1).jpeg)
 
-Com base nisso, a avaliação do storyboard e da análise de tarefas para o aluguel de sala pode ser visualizado no vídeo 1:
+Com base nisso, a avaliação do storyboard e da análise de tarefas para a realização de matrícula pode ser visualizado no vídeo 5:
 
 <center> 
 
-**Vídeo 1:** Entrevista Avaliação sobre a funcionalidade Aluguel de sala.
+**Vídeo 5:** Entrevista Avaliação sobre a funcionalidade de Realizar Matrícula.
 
-<iframe width="700" height="600" src="https://www.youtube.com/embed/Ju3S8haCitM" title="AValiação do Storyboard e Análise de tarefas - Funcionalidade: Aluguel de sala." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="600" src="https://youtu.be/gQaKuZyNxx8" title="Avaliação do Storyboard e Análise de tarefas - Funcionalidade: Realizar Matrícula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+**Autora:** [Pedro Izarias](https://github.com/Izarias)
 
 </center>
 
-Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watch?v=Ju3S8haCitM)
+Caso o vídeo acima não funcione, utilize o [link](https://youtu.be/gQaKuZyNxx8)
 
-Termo de consentimento do participante João Pedro em [Termo João Pedro](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/termos/joaoPedro.md)
+A participante concordou com os termos da entrevista.
+
 ### Perguntas Respondidas Durante a Entrevista
 
 <details>
   <summary size="20"><b> Questionário de Pré-Avaliação </b></summary> 
 
 **1. Dados Demográficos**:
--  **Nome completo**: João Pedro Santiago Garcia
--  **Idade**: 25 anos
--  **Gênero**: Masculino
--   **Curso ou área de Estudo/Trabalho**: Engenharia Aeroespacial no oitavo semestre.
+-  **Nome completo**: Erika Iwakiri
+-  **Idade**: 22 anos
+-  **Gênero**: Feminino
+-   **Curso ou área de Estudo/Trabalho**: Letras - Tradução Inglês.
   
 **2. Com que frequência você usa computadores ou dispositivos móveis?**
 
@@ -39,87 +40,78 @@ Termo de consentimento do participante João Pedro em [Termo João Pedro](Design
 
 **3.Qual o seu nível de familiaridade com o uso de software acadêmico, em geral?**
 
-- Nível baixo.
+- Nível alto.
 
 **4.Como você classifica suas habilidades gerais com tecnologia?**
 
-- Média
+- Alta (Possui facilidade).
 
 **5.Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
 
-- Sim.
+- Sim (Frequentemente).
 
 **6.Qual é o seu principal objetivo ao usar sistemas acadêmicos?**
 
-- No geral, facilitar a realização de alguns procedimentos.
+- Buscar por cursos, notas, frequencia das matérias, ementa e vagas de estágio .
 
   </details>
 
 <details>
   <summary size="20"><b> Questionário sobre o Storyboard </b></summary> 
 
-### Observações durante a leitura do storyboard:
-
-  Gostou da ideia da funcionalidade, pois facilita a vida do usuário, pois ele não precisa se locomover para realizar o aluguel. Assim, consegue fazer tudo de modo remoto.
-
 ### Questionário de avaliação Storyboard
 
 **1. O que você achou do storyboard apresentado? Houve algum elemento que se destacou positiva ou negativamente?**
-- Ele gostou da ideia geral e da elaboração dela.
+- Ela acha que a funcionalidade foi bem descrita no storyboard e gostou da solução.
   
 **2. O storyboard foi claro e fácil de entender? Quais partes, se houver, foram confusas ou difíceis de seguir?**
-- Sim, achou bem claro e não teve nenhuma parte que achou confusa.
+- Sim, achou bem claro e nada confuso.
   
 **3. Você acha que o storyboard reflete bem as necessidades e as expectativas dos usuários? Por quê?**
-- Sim, porque, para os estudantes que moram longe, é bem mais prático fazer o aluguel de sala online e precisar só de deslocar uma vez, que é para o evento, do que ter que se deslocar duas vezes, a primeira para alugar a sala em certo dia e outra para ir, necessariamente, para o evento.
+- Sim, pois é um problema que pode ocorrer tranquilamente com algum aluno.
 
 **4. Você acha que a solução apresentada no storyboard é relevante e eficaz para o problema mostrado? Por quê?**
-- Sim, acredita que será bem funcional baseando-se no contexto do storyboard.
+- Sim, pois acredita que a solução mais fácil é realizar a matrícula pelo SIGAA.
 
 **5. De que maneira você acha que a solução apresentada no storyboard poderia impactar a vida dos usuários?**
-- Facilita tanto para quem quer alugar a sala quanto para quem cuida desse processo, porque, por exemplo, se um conjunto de pessoas desejar alugar uma sala ao mesmo tempo, é formada uma fila que fica cansativa tanto para o servidor técnico que organiza as salas quanto para quem deseja alugar. Além disso, facilita o próprio processo de reserva de aluguel de salas.
+- A entrevistada acredita que é mais facil realizar a tarefa por meio de um software do que recorrer a uma pessoa que tem outros compromissos que podem atrapalhar o término da tarefa, portanto, poupa o tempo de quem deseja realizar a tarefa utilizando o Sigaa.
 
 </details>
 
 <details>
   <summary size="20"><b> Questionário sobre a análise de tarefas </b></summary> 
 
-### Observações durante avaliação da análise de tarefas: 
-
-Em selecionar o horário, para deixar mais organizado, o usuário seleciona entre as opções, ou seja, não é o usuário que define o horário, mas o sistema que dá as opções. 
-
 ### Questionário de Avaliação Análise de tarefas
 
 **1. A análise de tarefas foi fácil de seguir? Houve alguma etapa que você achou particularmente complicada ou mal explicada?**
-- Ele achou a análise de tarefas bem tranquila e com um fluxo fácil de ser entendido.
+- Ela achou a análise de tarefas fácil de seguir, porém com as relações entre as tarefas confusa.
   
 **2. A sequência das tarefas fez sentido para você? Alguma etapa pareceu fora de ordem ou confusa?**
-- Ele acredita que a sequência das tarefas fazem sentido e em uma ordem correta e esperada.
+- Ela acredita que as etapas fazem sentido e estão em ordem.
 
 **3. Você acha que as tarefas analisadas são relevantes para o contexto do sistema acadêmico? Por quê?**
-- Ele acredita que sim, pois envolve a parte burocrática essencial para um sistema acadêmico e ajuda na organização. 
+- Sim, são bem relevantes para que o aluno saiba o que fazer em cada etapa da matrícula. 
 
 **4. As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral?**
-- Ele falou que sim, pois o formato das tarefas para utilizar a funcionalidade segue a mesma dinâmica que os outros sistemas acadêmicos que ele utiliza.
+- Sim, as tarefas são consistentes entre si e são bem parecidas com o sistema utilizado pela entrevistada.
 
 **5. Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas?**
-- Ele acredita que o formulário pode ser simplificado, pois a pessoa que entra na sua conta, então, qualquer tarefa que ela realizar já vai ter os seus dados vinculados automaticamente. Então, pode ser que uma parte do formulário seja desnecessária.
-- Por exemplo, o ideal seria só para colher informações sobre o motivo do aluguel.
+-Ela acha que poderiam existir mais abas no menu principal, para que as abas existentes não tenham tantas opções.
 
 **6. Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas?**
-- Para ele, a questão do horário e data deveriam ser simples, pois é algo que ele encontra dificuldades em outros sistemas.
+- Para ela, a maior dificuldade está relacionada a queda de do sistema e não a funcionalidade em si.
 
 **7. As tarefas são intuitivas e fáceis de entender?**
-- Ele acredita que sim.
+- Ela acredita que sim.
 
 **8. Existem etapas desnecessárias ou confusas no fluxo das tarefas?**
-- Para ele, a única parte que é parcialmente desnecessária é o formulário.
+- Para ela, existem etapas com nomes parecidos que podem confundir o usuário.
 
 **9. Os objetivos dos usuários são alcançados de maneira eficiente?**
-- Ele acredita que sim.
+- Ela acredita que sim.
 
 **10. Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?**
-- Não, ele acredita que está bem coerente com o que é esperado.
+- Não.
 
 </details>
 
@@ -127,10 +119,10 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
   <summary size="20"><b> Questionário de avaliação conforme os objetivos </b></summary> 
 
 **1. O quanto eles são motivados a explorar as novas funcionalidades?**
-- Ele utilizaria o aluguel de salas para realizar reuniões e estudos em grupo.
+- Ela tem o costume de explorar novas funcionalidades sempre que tem acesso a um novo sistema.
 
 **2. Quais são os pontos fortes e fracos do sistema, na opinião dos usuários**
-- Ele não possui opinião sobre os pontos fortes e fracos além dos que comentou anteriormente.
+- Um ponto forte seria que o portal do discente possui a maioria das fucnionalidades necessárias para o aluno e um ponto fraco seria que isso impede que os alunos fiquem sabendo de funcionalidades diferentes pertencentes a outros portais.
 
 **3. Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?**
 - Ele acredita que sim, no formato em que o storyboard e a análise de tarefas foram apresentados, é possível deduzir que os objetivos e necessidades dos usuários serão atendidos com eficiência.
