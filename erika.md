@@ -125,10 +125,10 @@ A participante concordou com os termos da entrevista.
 - Um ponto forte seria que o portal do discente possui a maioria das fucnionalidades necessárias para o aluno e um ponto fraco seria que isso impede que os alunos fiquem sabendo de funcionalidades diferentes pertencentes a outros portais.
 
 **3. Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?**
-- Ele acredita que sim, no formato em que o storyboard e a análise de tarefas foram apresentados, é possível deduzir que os objetivos e necessidades dos usuários serão atendidos com eficiência.
+- No sistema o usuário pode ver suas notas, frequencia, avisos da coordenação, fazer matrícula, ver o histórico, porcentagem de realização do curso e etc. Portanto as necessidades dos alunos são atendidas e outras questões poderiam ser adicionadas porém em outro portal e não no sigaa.
 
 **4. A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?**
-- Ele não conseguiu dar uma resposta para isso, pois observou que para ter mais conclusões seria necessário observar essa funcionalidade de aluguel de sala funcionando no sistema. No entanto, a princípio, acredita que está ótimo.
+- A entrevistada considera que há possibilidades de melhora, porém que deve haver uma reunião com os usuários para que sejam decididos os tópicos ou funcionalidades abordadas, a fim de que seja democrático.
 
  </details>
 
@@ -136,13 +136,13 @@ A participante concordou com os termos da entrevista.
   <summary size="20"><b> Questionário de de pós-avaliação </b></summary> 
 
 **1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
-- Ele gostou bastante de como foi apresentado e da dinâmica da entrevista.
+- Ela é satisfeita com o sistema no geral.
 
 **2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
-- Ele achou tudo bem intuitivo, mas recomenda focar mais no horário para deixá-lo mais intuitivo e menos propenso a erros.
+- Ela achou o sistema em geral intuitivo, apenas citando o fato de existirem alguns nomes de funcionalidades parecidas que causam confusão.
 
 **3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
-- Sim, atendeu às expectativas dele.
+- Sim, as funcionalidades atendem às expectativas.
    
   </details>
 
