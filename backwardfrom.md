@@ -1,7 +1,7 @@
 <details>
   <summary><b> RF22 - Pedro Izarias </b></summary> 
 
- <b>Tabela 19:</b> Estrutura do requisito
+ <b>Tabela 45:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -18,11 +18,11 @@
 
 ### Elos de Rastreabilidade
 
-A tabela 20 mostra os elos do requisito RF22.
+A tabela 46 mostra os elos do requisito RF22.
 
 <center> 
 
-<b>Tabela 20:</b> Elo do Requisito
+<b>Tabela 46:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
@@ -37,7 +37,7 @@ A tabela 20 mostra os elos do requisito RF22.
 <details>
   <summary><b> RF23 - Pedro Izarias </b></summary> 
 
- <b>Tabela 19:</b> Estrutura do requisito
+ <b>Tabela 47:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -54,11 +54,11 @@ A tabela 20 mostra os elos do requisito RF22.
 
 ### Elos de Rastreabilidade
 
-A tabela 20 mostra os elos do requisito RF23.
+A tabela 48 mostra os elos do requisito RF23.
 
 <center> 
 
-<b>Tabela 20:</b> Elo do Requisito
+<b>Tabela 48:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
@@ -73,7 +73,7 @@ A tabela 20 mostra os elos do requisito RF23.
 <details>
   <summary><b> RF24 - Pedro Izarias </b></summary> 
 
- <b>Tabela 19:</b> Estrutura do requisito
+ <b>Tabela 49:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -90,11 +90,11 @@ A tabela 20 mostra os elos do requisito RF23.
 
 ### Elos de Rastreabilidade
 
-A tabela 20 mostra os elos do requisito RF24.
+A tabela 50 mostra os elos do requisito RF24.
 
 <center> 
 
-<b>Tabela 20:</b> Elo do Requisito
+<b>Tabela 50:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
@@ -111,7 +111,7 @@ A tabela 20 mostra os elos do requisito RF24.
 <details>
   <summary><b> RF25 - Pedro Izarias </b></summary> 
 
- <b>Tabela 19:</b> Estrutura do requisito
+ <b>Tabela 51:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -128,11 +128,11 @@ A tabela 20 mostra os elos do requisito RF24.
 
 ### Elos de Rastreabilidade
 
-A tabela 20 mostra os elos do requisito RF25.
+A tabela 52 mostra os elos do requisito RF25.
 
 <center> 
 
-<b>Tabela 20:</b> Elo do Requisito
+<b>Tabela 52:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
@@ -147,7 +147,7 @@ A tabela 20 mostra os elos do requisito RF25.
 <details>
   <summary><b> RF26 - Pedro Izarias </b></summary> 
 
- <b>Tabela 19:</b> Estrutura do requisito
+ <b>Tabela 53:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -164,11 +164,11 @@ A tabela 20 mostra os elos do requisito RF25.
 
 ### Elos de Rastreabilidade
 
-A tabela 20 mostra os elos do requisito RF26.
+A tabela 54 mostra os elos do requisito RF26.
 
 <center> 
 
-<b>Tabela 20:</b> Elo do Requisito
+<b>Tabela 54:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
@@ -183,7 +183,7 @@ A tabela 20 mostra os elos do requisito RF26.
 <details>
   <summary><b> RF27 - Pedro Izarias </b></summary> 
 
- <b>Tabela 19:</b> Estrutura do requisito
+ <b>Tabela 55:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -200,11 +200,11 @@ A tabela 20 mostra os elos do requisito RF26.
 
 ### Elos de Rastreabilidade
 
-A tabela 20 mostra os elos do requisito RF27.
+A tabela 56 mostra os elos do requisito RF27.
 
 <center> 
 
-<b>Tabela 20:</b> Elo do Requisito
+<b>Tabela 56:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
@@ -221,7 +221,7 @@ A tabela 20 mostra os elos do requisito RF27.
 <details>
   <summary><b> RF28 - Pedro Izarias </b></summary> 
 
- <b>Tabela 19:</b> Estrutura do requisito
+ <b>Tabela 57:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -238,11 +238,11 @@ A tabela 20 mostra os elos do requisito RF27.
 
 ### Elos de Rastreabilidade
 
-A tabela 20 mostra os elos do requisito RF28.
+A tabela 58 mostra os elos do requisito RF28.
 
 <center> 
 
-<b>Tabela 20:</b> Elo do Requisito
+<b>Tabela 58:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
