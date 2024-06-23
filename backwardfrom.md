@@ -113,13 +113,13 @@ A tabela 50 mostra os elos do requisito RF24.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | Usuário pode recuperar senha |
-| Origem do Requisito  | Entrevistas e Análise de Documentos |
-| Descrição            | Esse requisito permite que os usuários possam recuperar suas senhas de acesso ao aplicativo, caso a tenham esquecido, utilizando métodos de recuperação como e-mail ou SMS. |
-| Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de manterem acesso contínuo ao aplicativo, mesmo em caso de esquecimento de senha. |
-| Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta acessível e fácil de usar para todos os usuários. |
-| Gerencial | Do ponto de vista gerencial, é importante garantir que o processo de recuperação de senha seja seguro e eficiente, protegendo as informações dos usuários. |
-| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a recuperação de senha e a integração com serviços de envio de e-mails e SMS para a recuperação. |
+| Nome do Requisito    | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) |
+| Origem do Requisito  | Entrevistas |
+| Descrição            | Este requisito permite que os usuários empresariais gerenciem os contratos de trabalho dos seus funcionários através do aplicativo. Eles podem adicionar novos contratos, atualizar informações existentes e encerrar contratos quando necessário. |
+| Ambiental | Este requisito surge da necessidade das empresas em gerenciar de forma eficiente e centralizada os contratos de trabalho de seus funcionários. |
+| Organizacional | Alinhado com o objetivo do CTD de fornecer ferramentas de gestão completas para empresas e seus funcionários. |
+| Gerencial | Do ponto de vista gerencial, é crucial garantir que o processo de gerenciamento de contratos seja seguro, eficiente e esteja em conformidade com as regulamentações trabalhistas. |
+| Desenvolvimento      | A implementação deste requisito envolve a criação de uma interface para gerenciamento de contratos, integração com o banco de dados para armazenamento seguro e atualização das informações. |
 | Nível de Priorização | - |
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
@@ -134,7 +134,7 @@ A tabela 52 mostra os elos do requisito RF25.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
-| Recurso | Desenvolvimento | <li> Módulo de Recuperação de Senha <br> <li> Serviço de Envio de E-mails e SMS <br> <li> Interface de Usuário para Recuperação de Senha. | Os serviços de envio de e-mails e SMS e a interface de usuário para permitir a recuperação de senha são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF01: Usuário pode se cadastrar no aplicativo <br> <br>  Requisitos não funcionais: <br> <li> RNF10: O sistema deve garantir a segurança dos dados de autenticação dos usuários.|
+| Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Contratos de Trabalho <br> <li> Banco de Dados para Armazenamento de Contratos <br> <li> Interface de Usuário para Gerenciamento de Contratos. | O módulo de gerenciamento de contratos de trabalho e a interface de usuário para permitir o gerenciamento são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
@@ -149,13 +149,13 @@ A tabela 52 mostra os elos do requisito RF25.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | Usuário pode visualizar histórico de contratações |
-| Origem do Requisito  | Entrevistas e Análise de Documentos |
-| Descrição            | Esse requisito permite que os usuários possam visualizar o histórico completo de suas contratações, incluindo detalhes de cada contrato de trabalho, como datas, cargos, e empregadores. |
-| Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de terem acesso fácil e rápido ao seu histórico de contratações para consultas e comprovações. |
-| Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa para a gestão de informações trabalhistas dos trabalhadores. |
-| Gerencial | Do ponto de vista gerencial, é importante garantir que o histórico de contratações esteja sempre atualizado e seja de fácil acesso para os usuários. |
-| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a visualização do histórico de contratações e a integração com o banco de dados para acesso seguro às informações. |
+| Nome do Requisito    | Usuário empresa pode cadastrar benefícios para a empresa |
+| Origem do Requisito  | Entrevistas e análise de documento |
+| Descrição            | Este requisito permite que os usuários empresariais cadastrem benefícios para seus funcionários através do aplicativo. Os benefícios podem incluir vantagens adicionais oferecidas pela empresa, como plano de saúde, vale-refeição, entre outros. |
+| Ambiental | Surge da necessidade das empresas em oferecer benefícios atrativos para retenção e motivação dos funcionários. |
+| Organizacional | Alinhado com o objetivo do CTD de fornecer ferramentas de gestão completas para empresas e seus funcionários. |
+| Gerencial | Do ponto de vista gerencial, é importante garantir que o cadastro de benefícios seja fácil de realizar e que os benefícios sejam claros e bem comunicados aos funcionários. |
+| Desenvolvimento      | A implementação deste requisito envolve a criação de uma interface para cadastro de benefícios, integração com o sistema para armazenamento seguro das informações e possibilidade de atualização conforme necessário. |
 | Nível de Priorização | - |
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
@@ -185,13 +185,13 @@ A tabela 54 mostra os elos do requisito RF26.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | Usuário pode visualizar notificações |
-| Origem do Requisito  | Entrevistas e Análise de Documentos |
-| Descrição            | Esse requisito permite que os usuários possam visualizar notificações importantes dentro do aplicativo, como atualizações de contrato, novos benefícios, ou mensagens da empresa. |
-| Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de serem informados sobre eventos importantes e atualizações em suas informações trabalhistas. |
-| Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa e informativa para os trabalhadores. |
-| Gerencial | Do ponto de vista gerencial, é importante garantir que as notificações sejam entregues de forma eficiente e que os usuários possam acessá-las facilmente. |
-| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a visualização de notificações e a integração com o sistema de backend para envio e armazenamento das notificações. |
+| Nome do Requisito    | Usuário empresa pode gerenciar benefícios trabalhistas |
+| Origem do Requisito  | Entrevistas |
+| Descrição            | Este requisito permite que os usuários empresariais gerenciem os benefícios trabalhistas oferecidos aos seus funcionários através do aplicativo. Eles podem configurar novos benefícios, atualizar informações existentes e desativar benefícios quando necessário. |
+| Ambiental | Este requisito surge da necessidade das empresas em oferecer e gerenciar benefícios competitivos para atrair e reter talentos. |
+| Organizacional | Alinhado com o objetivo do CTD de fornecer ferramentas de gestão completas para empresas e seus funcionários. |
+| Gerencial | Do ponto de vista gerencial, é crucial garantir que o gerenciamento de benefícios seja flexível e permita personalização conforme as necessidades da empresa e dos funcionários. |
+| Desenvolvimento      | A implementação deste requisito envolve a criação de uma interface para gerenciamento de benefícios, integração com o sistema para armazenamento seguro das informações e suporte a atualizações dinâmicas. |
 | Nível de Priorização | - |
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
@@ -206,7 +206,7 @@ A tabela 56 mostra os elos do requisito RF27.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
-| Recurso | Desenvolvimento | <li> Módulo de Notificações <br> <li> Serviço de Envio de Notificações <br> <li> Interface de Usuário para Visualização de Notificações. | O serviço de envio de notificações e a interface de usuário para permitir a visualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF09: Usuário pode realizar anotações <br> <br>  Requisitos não funcionais: <br> <li> RNF08: O sistema deve ter um tempo de resposta de no máximo 2 segundos para exibir notificações.|
+| Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Benefícios Trabalhistas <br> <li> Banco de Dados para Armazenamento de Benefícios <br> <li> Interface de Usuário para Gerenciamento de Benefícios. | O módulo de gerenciamento de benefícios trabalhistas e a interface de usuário para permitir o gerenciamento são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF08: Usuário pode gerenciar informações trabalhistas <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
@@ -221,13 +221,13 @@ A tabela 56 mostra os elos do requisito RF27.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | Usuário pode visualizar dados de contato da empresa |
-| Origem do Requisito  | Entrevistas e Análise de Documentos |
-| Descrição            | Esse requisito permite que os usuários possam visualizar os dados de contato das empresas em que estão empregados ou foram empregados anteriormente. |
-| Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de terem acesso fácil e rápido aos dados de contato de suas empresas para comunicação e outras finalidades. |
-| Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa para a gestão de informações trabalhistas dos trabalhadores. |
-| Gerencial | Do ponto de vista gerencial, é importante garantir que os dados de contato estejam sempre atualizados e sejam de fácil acesso para os usuários. |
-| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a visualização dos dados de contato e a integração com o banco de dados para acesso seguro às informações. |
+| Nome do Requisito    | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não possui vagas de emprego" |
+| Origem do Requisito  | Entrevistas |
+| Descrição            | Este requisito permite que os usuários empresariais configurem o status da empresa em relação à disponibilidade de vagas de emprego através do aplicativo. Eles podem escolher entre indicar que a empresa possui vagas de emprego disponíveis ou que não possui vagas disponíveis no momento. |
+| Ambiental | Surge da necessidade das empresas em comunicar claramente sua situação de contratação aos potenciais candidatos. |
+| Organizacional | Alinhado com o objetivo do CTD de facilitar a interação entre empresas e candidatos a emprego de forma transparente. |
+| Gerencial | Do ponto de vista gerencial, é importante que a configuração do status seja fácil de atualizar e que as informações sejam refletidas de forma precisa no aplicativo. |
+| Desenvolvimento      | A implementação deste requisito envolve a criação de uma interface para configuração do status, integração com o sistema para atualização em tempo real e garantia de que as informações sejam acessíveis aos candidatos. |
 | Nível de Priorização | - |
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
@@ -242,7 +242,7 @@ A tabela 58 mostra os elos do requisito RF28.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
-| Recurso | Desenvolvimento | <li> Módulo de Dados de Contato <br> <li> Banco de Dados para Armazenamento de Contatos <br> <li> Interface de Usuário para Visualização de Dados de Contato. | O banco de dados para armazenar os dados de contato e a interface de usuário para permitir a visualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF07: Usuário trabalhador pode consultar dados de contato <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
+| Recurso | Desenvolvimento | <li> Interface de Usuário para Configuração de Status de Vagas de Emprego <br> <li> Integração com Sistema para Atualização em Tempo Real <br> <li> Garantia de Acessibilidade das Informações aos Candidatos. | A interface para configuração do status e a integração com o sistema são recursos essenciais para o requisito. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF10: Usuário pode buscar vagas de emprego disponíveis <br> <br>  Requisitos não funcionais: <br> <li> RNF15: O sistema deve garantir que as informações de vagas de emprego sejam atualizadas em tempo real.|
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
