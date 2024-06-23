@@ -206,9 +206,7 @@ A tabela 56 mostra os elos do requisito RF27.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
-| Recurso | Desenvolvimento | <li> Módulo de Notificações <br> <li> Serviço de Envio de Notificações <br> <li> Interface de Usuário para Visualização de Notificações. | O serviço de envio de notificações e a interface de usuário para permitir a visualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF09:
-
- Usuário pode realizar anotações <br> <br>  Requisitos não funcionais: <br> <li> RNF08: O sistema deve ter um tempo de resposta de no máximo 2 segundos para exibir notificações.|
+| Recurso | Desenvolvimento | <li> Módulo de Notificações <br> <li> Serviço de Envio de Notificações <br> <li> Interface de Usuário para Visualização de Notificações. | O serviço de envio de notificações e a interface de usuário para permitir a visualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF09: Usuário pode realizar anotações <br> <br>  Requisitos não funcionais: <br> <li> RNF08: O sistema deve ter um tempo de resposta de no máximo 2 segundos para exibir notificações.|
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
