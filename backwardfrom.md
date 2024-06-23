@@ -170,7 +170,7 @@ A tabela 54 mostra os elos do requisito RF26.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
-| Recurso | Desenvolvimento | <li> Módulo de Histórico de Contratações <br> <li> Banco de Dados para Armazenamento de Contratações <br> <li> Interface de Usuário para Visualização de Histórico de Contratações. | O banco de dados para armazenar o histórico de contratações e a interface de usuário para permitir a visualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
+| Recurso | Desenvolvimento | <li> Módulo de Cadastro de Benefícios <br> <li> Banco de Dados para Armazenamento de Benefícios <br> <li> Interface de Usuário para Cadastro de Benefícios. | O módulo de cadastro de benefícios e a interface de usuário para permitir o cadastro são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF07: Usuário trabalhador pode consultar dados de contato <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
