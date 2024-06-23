@@ -1,7 +1,3 @@
-Claro, posso ajudar com isso. Vamos começar detalhando os requisitos funcionais RF22, RF23, RF24, RF25, RF26, RF27 e RF28, seguindo o mesmo formato do exemplo fornecido.
-
-### RF22 - Usuário empresa pode atualizar dados dos funcionários
-
 <details>
   <summary><b> RF22 - Larissa Stéfane </b></summary> 
 
@@ -38,8 +34,6 @@ A tabela 20 mostra os elos do requisito RF22.
 
 </details>
 
-### RF23 - Usuário empresa pode consultar contratos de trabalho
-
 <details>
   <summary><b> RF23 - Larissa Stéfane </b></summary> 
 
@@ -75,8 +69,6 @@ A tabela 20 mostra os elos do requisito RF23.
 </center>
 
 </details>
-
-### RF24 - Usuário empresa pode gerar relatórios trabalhistas
 
 <details>
   <summary><b> RF24 - Larissa Stéfane </b></summary> 
@@ -116,8 +108,6 @@ A tabela 20 mostra os elos do requisito RF24.
 
 </details>
 
-### RF25 - Usuário pode recuperar senha
-
 <details>
   <summary><b> RF25 - Larissa Stéfane </b></summary> 
 
@@ -154,8 +144,6 @@ A tabela 20 mostra os elos do requisito RF25.
 
 </details>
 
-### RF26 - Usuário pode visualizar histórico de contratações
-
 <details>
   <summary><b> RF26 - Larissa Stéfane </b></summary> 
 
@@ -191,8 +179,6 @@ A tabela 20 mostra os elos do requisito RF26.
 </center>
 
 </details>
-
-### RF27 - Usuário pode visualizar notificações
 
 <details>
   <summary><b> RF27 - Larissa Stéfane </b></summary> 
@@ -231,8 +217,6 @@ A tabela 20 mostra os elos do requisito RF27.
 </center>
 
 </details>
-
-### RF28 - Usuário pode visualizar dados de contato da empresa
 
 <details>
   <summary><b> RF28 - Larissa Stéfane </b></summary> 
