@@ -14,7 +14,7 @@
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a atualização de dados dos funcionários e a integração com o banco de dados para armazenamento seguro das informações atualizadas. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Elos de Rastreabilidade
 
@@ -28,7 +28,7 @@ A tabela 20 mostra os elos do requisito RF22.
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Atualização de Dados de Funcionários <br> <li> Banco de Dados para Armazenamento de Dados de Funcionários <br> <li> Interface de Usuário para Atualização de Dados. | O banco de dados para armazenar os dados dos funcionários atualizados e a interface de usuário para permitir a atualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF03: Usuário pode consultar suas informações pessoais <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <br>  Requisitos não funcionais: <br> <li> RNF14: O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -50,7 +50,7 @@ A tabela 20 mostra os elos do requisito RF22.
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a consulta de contratos de trabalho e a integração com o banco de dados para acesso seguro às informações. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Elos de Rastreabilidade
 
@@ -64,7 +64,7 @@ A tabela 20 mostra os elos do requisito RF23.
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Consulta de Contratos de Trabalho <br> <li> Banco de Dados para Armazenamento de Contratos de Trabalho <br> <li> Interface de Usuário para Consulta de Contratos. | O banco de dados para armazenar os contratos de trabalho e a interface de usuário para permitir a consulta dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -86,7 +86,7 @@ A tabela 20 mostra os elos do requisito RF23.
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a geração de relatórios e a integração com o banco de dados para acesso seguro e eficiente às informações necessárias. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Elos de Rastreabilidade
 
@@ -102,7 +102,7 @@ A tabela 20 mostra os elos do requisito RF24.
 
  relatórios são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF06: Usuário trabalhador pode consultar benefícios <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -124,7 +124,7 @@ A tabela 20 mostra os elos do requisito RF24.
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a recuperação de senha e a integração com serviços de envio de e-mails e SMS para a recuperação. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Elos de Rastreabilidade
 
@@ -138,7 +138,7 @@ A tabela 20 mostra os elos do requisito RF25.
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Recuperação de Senha <br> <li> Serviço de Envio de E-mails e SMS <br> <li> Interface de Usuário para Recuperação de Senha. | Os serviços de envio de e-mails e SMS e a interface de usuário para permitir a recuperação de senha são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF01: Usuário pode se cadastrar no aplicativo <br> <br>  Requisitos não funcionais: <br> <li> RNF10: O sistema deve garantir a segurança dos dados de autenticação dos usuários.|
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -160,7 +160,7 @@ A tabela 20 mostra os elos do requisito RF25.
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a visualização do histórico de contratações e a integração com o banco de dados para acesso seguro às informações. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Elos de Rastreabilidade
 
@@ -174,7 +174,7 @@ A tabela 20 mostra os elos do requisito RF26.
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Histórico de Contratações <br> <li> Banco de Dados para Armazenamento de Contratações <br> <li> Interface de Usuário para Visualização de Histórico de Contratações. | O banco de dados para armazenar o histórico de contratações e a interface de usuário para permitir a visualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -196,7 +196,7 @@ A tabela 20 mostra os elos do requisito RF26.
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a visualização de notificações e a integração com o sistema de backend para envio e armazenamento das notificações. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Elos de Rastreabilidade
 
@@ -212,7 +212,7 @@ A tabela 20 mostra os elos do requisito RF27.
 
  Usuário pode realizar anotações <br> <br>  Requisitos não funcionais: <br> <li> RNF08: O sistema deve ter um tempo de resposta de no máximo 2 segundos para exibir notificações.|
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -234,7 +234,7 @@ A tabela 20 mostra os elos do requisito RF27.
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface para a visualização dos dados de contato e a integração com o banco de dados para acesso seguro às informações. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Elos de Rastreabilidade
 
@@ -248,7 +248,7 @@ A tabela 20 mostra os elos do requisito RF28.
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Dados de Contato <br> <li> Banco de Dados para Armazenamento de Contatos <br> <li> Interface de Usuário para Visualização de Dados de Contato. | O banco de dados para armazenar os dados de contato e a interface de usuário para permitir a visualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF07: Usuário trabalhador pode consultar dados de contato <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
