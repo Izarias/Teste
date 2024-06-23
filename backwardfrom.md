@@ -98,9 +98,7 @@ A tabela 50 mostra os elos do requisito RF24.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
-| Recurso | Desenvolvimento | <li> Módulo de Geração de Relatórios <br> <li> Banco de Dados para Armazenamento de Informações Trabalhistas <br> <li> Interface de Usuário para Geração de Relatórios. | O banco de dados para armazenar as informações trabalhistas e a interface de usuário para permitir a geração de
-
- relatórios são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF06: Usuário trabalhador pode consultar benefícios <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
+| Recurso | Desenvolvimento | <li> Módulo de Geração de Relatórios <br> <li> Banco de Dados para Armazenamento de Informações Trabalhistas <br> <li> Interface de Usuário para Geração de Relatórios. | O banco de dados para armazenar as informações trabalhistas e a interface de usuário para permitir a geração de relatórios são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF06: Usuário trabalhador pode consultar benefícios <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
