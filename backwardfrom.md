@@ -6,7 +6,7 @@
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário empresa pode atualizar dados dos funcionários |
-| Origem do Requisito  | [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf). |
+| Origem do Requisito  | Entrevistas e Análise de Documentos |
 | Descrição            | Esse requisito permite que empresas possam atualizar os dados de seus funcionários diretamente no aplicativo, garantindo que as informações estejam sempre atualizadas e corretas. Isso inclui a atualização de informações pessoais e profissionais dos funcionários. |
 | Ambiental | O contexto do requisito está relacionado à necessidade das empresas de manterem as informações dos funcionários atualizadas, refletindo mudanças como promoções, alterações salariais, entre outras. |
 | Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa para a gestão de informações trabalhistas tanto para trabalhadores quanto para empregadores. |
@@ -42,7 +42,7 @@ A tabela 46 mostra os elos do requisito RF22.
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário empresa pode consultar contratos de trabalho |
-| Origem do Requisito  | [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf). |
+| Origem do Requisito  | Entrevistas e Análise de Documentos |
 | Descrição            | Esse requisito permite que empresas possam consultar contratos de trabalho dos funcionários, verificando informações como datas de início e término, salários, e outros detalhes relevantes. |
 | Ambiental | O contexto do requisito está relacionado à necessidade das empresas de verificar os contratos de trabalho de seus funcionários para fins administrativos e de conformidade legal. |
 | Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa para a gestão de informações trabalhistas tanto para trabalhadores quanto para empregadores. |
@@ -78,7 +78,7 @@ A tabela 48 mostra os elos do requisito RF23.
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário empresa pode gerar relatórios trabalhistas |
-| Origem do Requisito  | [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf). |
+| Origem do Requisito  | Entrevistas e Análise de Documentos |
 | Descrição            | Esse requisito permite que empresas possam gerar relatórios trabalhistas, incluindo informações sobre contratos de trabalho, benefícios, e outros dados relevantes para a administração da força de trabalho. |
 | Ambiental | O contexto do requisito está relacionado à necessidade das empresas de gerar relatórios trabalhistas para fins de gestão interna e conformidade com regulamentações trabalhistas. |
 | Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa para a gestão de informações trabalhistas tanto para trabalhadores quanto para empregadores. |
@@ -114,7 +114,7 @@ A tabela 50 mostra os elos do requisito RF24.
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário pode recuperar senha |
-| Origem do Requisito  | [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf). |
+| Origem do Requisito  | Entrevistas e Análise de Documentos |
 | Descrição            | Esse requisito permite que os usuários possam recuperar suas senhas de acesso ao aplicativo, caso a tenham esquecido, utilizando métodos de recuperação como e-mail ou SMS. |
 | Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de manterem acesso contínuo ao aplicativo, mesmo em caso de esquecimento de senha. |
 | Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta acessível e fácil de usar para todos os usuários. |
@@ -150,7 +150,7 @@ A tabela 52 mostra os elos do requisito RF25.
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário pode visualizar histórico de contratações |
-| Origem do Requisito  | [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf). |
+| Origem do Requisito  | Entrevistas e Análise de Documentos |
 | Descrição            | Esse requisito permite que os usuários possam visualizar o histórico completo de suas contratações, incluindo detalhes de cada contrato de trabalho, como datas, cargos, e empregadores. |
 | Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de terem acesso fácil e rápido ao seu histórico de contratações para consultas e comprovações. |
 | Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa para a gestão de informações trabalhistas dos trabalhadores. |
@@ -186,7 +186,7 @@ A tabela 54 mostra os elos do requisito RF26.
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário pode visualizar notificações |
-| Origem do Requisito  | [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf). |
+| Origem do Requisito  | Entrevistas e Análise de Documentos |
 | Descrição            | Esse requisito permite que os usuários possam visualizar notificações importantes dentro do aplicativo, como atualizações de contrato, novos benefícios, ou mensagens da empresa. |
 | Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de serem informados sobre eventos importantes e atualizações em suas informações trabalhistas. |
 | Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa e informativa para os trabalhadores. |
@@ -224,7 +224,7 @@ A tabela 56 mostra os elos do requisito RF27.
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário pode visualizar dados de contato da empresa |
-| Origem do Requisito  | [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf). |
+| Origem do Requisito  | Entrevistas e Análise de Documentos |
 | Descrição            | Esse requisito permite que os usuários possam visualizar os dados de contato das empresas em que estão empregados ou foram empregados anteriormente. |
 | Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de terem acesso fácil e rápido aos dados de contato de suas empresas para comunicação e outras finalidades. |
 | Organizacional | Alinhado com o objetivo do CTD em fornecer uma ferramenta completa para a gestão de informações trabalhistas dos trabalhadores. |
