@@ -35,7 +35,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 
 | Artefato | Identificador | Rastreabilidade |
 | -------- | ------------- | --------------- |
-| Cenário | <li> [Atualizar dados do funcionário](modelagem/cenarios.md) | [Cenários](modelagem/cenarios.md) |
+| Cenário | [Visualizar aba "Emprego"](modelagem/cenarios.md) <br> <li> [Atualizar dados do funcionário](modelagem/cenarios.md) | [Cenários](modelagem/cenarios.md) |
 | Léxico | **Verbo:** <br> <li> [Atualizar Dados](modelagem/lexico.md) <br> <br> **Objeto:** <br> <li> [Funcionário](modelagem/lexico.md) <br> <li> [Dados do Funcionário](modelagem/lexico.md) <br> <br> **Estado:** <br> <li> [Dados Atualizados](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md) <br> <li> [UC10 - Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md) | [Casos de Uso](modelagem/casoDeUso.md) |
 | Especificação Suplementar | **Para a implementação:** <br> <li> RI01 - Integração com eSocial <br> <li> RI03 - Permitir integração com vários outros softwares <br> <br> **Para a confiabilidade:** <br> <li> CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade. <br> <li> CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho. | [Especificação Suplementar](modelagem/especSuplementar.md) |
