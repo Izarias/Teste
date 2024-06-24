@@ -56,3 +56,264 @@ A tabela abaixo mostra os elos do requisito RF22.
 **Autora:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
+
+<details>
+  <summary><b> RF23 - Pedro Izarias  </b></summary>
+
+#### Versões do Requisito
+
+| Versão                              | Rastreabilidade                                  |
+| ----------------------------------- | ------------------------------------------------ |
+| Versão 1                            | [RF23](Elicitacao/ResquisitosCorrigidos.md)      |
+
+#### Autora
+
+- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+#### Estrutura de Desenvolvimento do Requisito
+
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário pode gerenciar suas notificações por meio do aplicativo                             | [RF23](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de configurações de perfil do usuário e dentro de cada seção de notificações específicas | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas depende da funcionalidade de envio e recebimento de notificações. | -                                                   |
+| Verificação                         | Verificar se o usuário pode configurar suas preferências de notificação e se as notificações são entregues corretamente. | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios de feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
+| Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a funcionalidade de notificação. | -                                                   |
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+| Artefato                            | Identificador                                           | Rastreabilidade                               |
+| ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Léxico                              | - Verbo: [Gerenciar Notificações](modelagem/lexico.md) <br> - Objeto: [Notificação](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)                |
+| Casos de Uso                        | - [UC05 - Configurar preferências de notificação](modelagem/casoDeUso.md)                   | [Casos de Uso](modelagem/casoDeUso.md)        |
+| Especificação Suplementar           | - Para a implementação: [RI05 - Integração com serviço de notificações push](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON05 - O sistema deve garantir a entrega de notificações em tempo real](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
+| História de Usuário                 | [HI23 - Gerenciar notificações pelo aplicativo](modelagemAgil/historiaUsuario.md)           | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+
+#### Os Elos
+
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
+| Recurso     | Desenvolvimento   | - Módulo de gerenciamento de notificações <br> - Serviço de envio de notificações push <br> - Interface de usuário para configuração de preferências de notificação | O módulo de gerenciamento de notificações junto com o serviço de envio de notificações e a interface de usuário para configuração de preferências **são recursos** para o requisito de gerenciar notificações. | RF12: Usuário pode configurar suas preferências de notificação <br> RF18: Sistema deve garantir a entrega de notificações em tempo real |
+
+</details>
+
+<details>
+  <summary><b> RF24 - Pedro Izarias  </b></summary>
+
+#### Versões do Requisito
+
+| Versão                              | Rastreabilidade                                  |
+| ----------------------------------- | ------------------------------------------------ |
+| Versão 1                            | [RF24](Elicitacao/ResquisitosCorrigidos.md)      |
+
+#### Autora
+
+- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+#### Estrutura de Desenvolvimento do Requisito
+
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário pode enviar feedbacks sobre a aplicação                                             | [RF24](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de configurações de perfil do usuário e dentro de cada seção de feedback específica | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas depende da funcionalidade de envio e recebimento de feedbacks. | -                                                   |
+| Verificação                         | Verificar se o usuário pode acessar a função de enviar feedbacks e se esses feedbacks são recebidos e processados corretamente. | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios de feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
+| Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a funcionalidade de feedback. | -                                                   |
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+| Artefato                            | Identificador                                           | Rastreabilidade                               |
+| ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Léxico                              | - Verbo: [Enviar Feedbacks](modelagem/lexico.md) <br> - Objeto: [Feedback](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)                |
+| Casos de Uso                        | - [UC06 - Enviar feedback sobre a aplicação](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
+| Especificação Suplementar           | - Para a implementação: [RI06 - Integração com sistema de gerenciamento de feedbacks](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON06 - O sistema deve processar feedbacks de forma eficiente](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
+| História de Usuário                 | [HI24 - Enviar feedback sobre a aplicação](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+
+#### Os Elos
+
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
+| Recurso     | Desenvolvimento   | - Módulo de envio de feedbacks <br> - Serviço de recebimento e processamento de feedbacks | O módulo de envio de feedbacks junto com o serviço de recebimento e processamento **são recursos** para o requisito de enviar feedbacks sobre a aplicação. | RF13: Usuário pode enviar feedbacks sobre funcionalidades <br> RF19: Sistema deve processar feedbacks de forma eficiente |
+
+</details>
+
+<details>
+  <summary><b> RF25 - Pedro Izarias  </b></summary>
+
+#### Versões do Requisito
+
+| Versão                              | Rastreabilidade                                  |
+| ----------------------------------- | ------------------------------------------------ |
+| Versão 1                            | [RF25](Elicitacao/ResquisitosCorrigidos.md)      |
+
+#### Autora
+
+- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+#### Estrutura de Desenvolvimento do Requisito
+
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) | [RF25](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de gestão de recursos humanos e na seção de administração de contratos de trabalho | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade permite adicionar, atualizar e encerrar contratos de trabalho de forma eficiente e segura. | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
+| Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de contratos de trabalho na empresa. | -                                                   |
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+| Artefato                            | Identificador                                           | Rastreabilidade                               |
+| ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Léxico                              | - Verbo: [Gerenciar Contratos de Trabalho](modelagem/lexico.md) <br> - Objeto: [Contrato de Trabalho](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)                |
+| Casos de Uso                        | - [UC12 - Gerenciar contratos de trabalho](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
+| Especificação Suplementar           | - Para a implementação: [RI12 - Integração com sistema de gestão de contratos](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON09 - O sistema deve garantir a integridade dos dados de contratos](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
+| História de Usuário                 | [HI25 - Gerenciar contratos de trabalho na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+
+#### Os Elos
+
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
+| Recurso     | Desenvolvimento   | - Módulo de gestão de contratos <br> - Banco de Dados para Armazenamento de Contratos | O módulo de gestão de contratos junto com o banco de dados para armazenar os contratos **são recursos** para o requisito de gerenciar contratos de trabalho na empresa. | RF13: Usuário pode gerenciar contratos de trabalho <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+
+</details>
+
+<details>
+  <summary><b> RF26 - Pedro Izarias  </b></summary>
+
+#### Versões do Requisito
+
+| Versão                              | Rastreabilidade                                  |
+| ----------------------------------- | ------------------------------------------------ |
+| Versão 1                            | [RF26](Elicitacao/ResquisitosCorrigidos.md)      |
+
+#### Autora
+
+- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+#### Estrutura de Desenvolvimento do Requisito
+
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário empresa pode gerenciar benefícios trabalhistas (adicionar novos, atualizar já existentes e encerrar benefícios) | [RF26](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de gestão de recursos humanos e na seção de administração de benefícios trabalhistas | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade permite adicionar, atualizar e encerrar benefícios trabalhistas de forma eficiente e segura. | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
+| Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de benefícios trabalhistas na empresa. | -                                                   |
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+| Artefato                            | Identificador                                           | Rastreabilidade                               |
+| ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Léxico                              | - Verbo: [Gerenciar Benefícios Trabalhistas](modelagem/lexico.md) <br> - Objeto: [Benefício Trabalhista](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)                |
+| Casos de Uso                        | - [UC13 - Gerenciar benefícios trabalhistas](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
+| Especificação Suplementar           | - Para a implementação: [RI13 - Integração com sistema de gestão de benefícios](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON10 - O sistema deve garantir a integridade dos dados de benefícios](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
+| História de Usuário                 | [HI26 - Gerenciar benefícios trabalhistas na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+
+#### Os Elos
+
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
+| Recurso     | Desenvolvimento   | - Módulo de gestão de benefícios <br> - Banco de Dados para Armazenamento de Benefícios | O módulo de gestão de benefícios junto com o banco de dados para armazenar os benefícios **são recursos** para o requisito de gerenciar benefícios trabalhistas na empresa. | RF27: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+
+### Conclusão
+
+Esta estrutura cobre todos os aspectos essenciais do requisito RF26, desde sua definição até a rastreabilidade dos artefatos gerados e dos elos relacionados. Verifique e ajuste os links e referências conforme necessário para corresponder ao contexto do seu projeto específico.
+
+</details>
+
+<details>
+  <summary><b> RF27 - Pedro Izarias  </b></summary>
+
+#### Versões do Requisito
+
+| Versão                              | Rastreabilidade                                  |
+| ----------------------------------- | ------------------------------------------------ |
+| Versão 1                            | [RF27](Elicitacao/ResquisitosCorrigidos.md)      |
+
+#### Autora
+
+- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+#### Estrutura de Desenvolvimento do Requisito
+
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário empresa pode gerenciar benefícios trabalhistas (adicionar novos, atualizar já existentes e encerrar benefícios) | [RF27](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de gestão de recursos humanos e na seção de administração de benefícios trabalhistas | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade permite adicionar, atualizar e encerrar benefícios trabalhistas de forma eficiente e segura. | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
+| Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de benefícios trabalhistas na empresa. | -                                                   |
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+| Artefato                            | Identificador                                           | Rastreabilidade                               |
+| ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Léxico                              | - Verbo: [Gerenciar Benefícios Trabalhistas](modelagem/lexico.md) <br> - Objeto: [Benefício Trabalhista](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)                |
+| Casos de Uso                        | - [UC13 - Gerenciar benefícios trabalhistas](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
+| Especificação Suplementar           | - Para a implementação: [RI13 - Integração com sistema de gestão de benefícios](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON10 - O sistema deve garantir a integridade dos dados de benefícios](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
+| História de Usuário                 | [HI27 - Gerenciar benefícios trabalhistas na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+
+#### Os Elos
+
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
+| Recurso     | Desenvolvimento   | - Módulo de gestão de benefícios <br> - Banco de Dados para Armazenamento de Benefícios | O módulo de gestão de benefícios junto com o banco de dados para armazenar os benefícios **são recursos** para o requisito de gerenciar benefícios trabalhistas na empresa. | RF26: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+
+### Conclusão
+
+Esta estrutura abrange todos os elementos essenciais do requisito RF27, desde sua definição até a rastreabilidade dos artefatos gerados e dos elos relacionados. Verifique e ajuste os links e referências conforme necessário para se adequarem ao contexto específico do seu projeto.
+
+</details>
+
+<details>
+  <summary><b> RF28 - Pedro Izarias  </b></summary>
+
+#### Versões do Requisito
+
+| Versão                              | Rastreabilidade                                  |
+| ----------------------------------- | ------------------------------------------------ |
+| Versão 1                            | [RF28](Elicitacao/ResquisitosCorrigidos.md)      |
+
+#### Autora
+
+- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+#### Estrutura de Desenvolvimento do Requisito
+
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário empresa pode gerenciar dados pessoais e contratuais de funcionários                 | [RF28](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de gestão de recursos humanos e na seção de administração de dados dos funcionários  | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade permite acesso, atualização e gerenciamento eficiente dos dados pessoais e contratuais dos funcionários. | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
+| Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de dados dos funcionários na empresa. | -                                                   |
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+| Artefato                            | Identificador                                           | Rastreabilidade                               |
+| ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Léxico                              | - Verbo: [Gerenciar Dados Pessoais e Contratuais](modelagem/lexico.md) <br> - Objeto: [Dados Pessoais e Contratuais](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)                |
+| Casos de Uso                        | - [UC14 - Gerenciar dados pessoais e contratuais de funcionários](modelagem/casoDeUso.md)  | [Casos de Uso](modelagem/casoDeUso.md)        |
+| Especificação Suplementar           | - Para a implementação: [RI14 - Integração com sistema de gestão de dados](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON11 - O sistema deve garantir a segurança e privacidade dos dados dos funcionários](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
+| História de Usuário                 | [HI28 - Gerenciar dados pessoais e contratuais de funcionários na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+
+#### Os Elos
+
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
+| Recurso     | Desenvolvimento   | - Módulo de gestão de dados pessoais e contratuais <br> - Banco de Dados para Armazenamento de Dados dos Funcionários | O módulo de gestão de dados pessoais e contratuais junto com o banco de dados para armazenar esses dados **são recursos** para o requisito de gerenciar dados pessoais e contratuais de funcionários na empresa. | RF27: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+
+</details>
+
