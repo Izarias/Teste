@@ -145,7 +145,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF24.
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
 | Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
-| Léxico                              | - Verbo: Emitir PDF do Contrato de Trabalho <br> - Objeto: <br>Informação do Contrato | [Léxicos](modelagem/lexico.md)                |
+| Léxico                              | - Verbo: Emitir PDF do Contrato de Trabalho <br> - Objeto: Informação do Contrato | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC06 - Enviar feedback sobre a aplicação](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI06 - Integração com sistema de gerenciamento de feedbacks](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON06 - O sistema deve processar feedbacks de forma eficiente](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 | [HI24 - Enviar feedback sobre a aplicação](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
