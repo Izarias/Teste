@@ -22,8 +22,8 @@ A tabela abaixo mostra a estrutura do requisito RF22.
 | Nome do Requisito | Usuário empresa pode atualizar dados dos funcionários | [RF22](Elicitacao/ResquisitosCorrigidos.md) |
 | Alocação no App | Na região de gerenciamento de funcionários | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
 | Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas necessita de uma base de dados atualizada e precisa. | - |
-| Verificação | Verificar se a funcionalidade permite a atualização correta dos dados dos funcionários ou realizar testes com dados reais. | Será realizada pelo grupo em breve |
-| Correção de Defeitos | Através de relatórios e de feedbacks de usuários. | Não foi necessário corrigir falhas para esse requisito. |
+| Verificação | Verificar se a funcionalidade permite a atualização correta dos dados dos funcionários ou realizar testes com dados reais. | - |
+| Correção de Defeitos | Através de relatórios e de feedbacks de usuários. | - |
 | Análise de impacto na evolução | Baixo impacto: Afeta principalmente a interface de usuário e a atualização de dados de funcionários. | - |
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
