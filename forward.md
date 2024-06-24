@@ -4,7 +4,7 @@
 #### Versões do Requisito
 A tabela abaixo mostra as versões do requisito RF22.
 
-**Tabela 38:** Versão do requisito RF22.
+**Tabela 90:** Versão do requisito RF22.
 
 | Versão | Rastreabilidade |
 | ------ | --------------- |
@@ -15,7 +15,7 @@ A tabela abaixo mostra as versões do requisito RF22.
 #### Estrutura de Desenvolvimento do Requisito
 A tabela abaixo mostra a estrutura do requisito RF22.
 
-**Tabela 39:** Estrutura do requisito RF22.
+**Tabela 91:** Estrutura do requisito RF22.
 
 | Características | Explicação | Rastreabilidade |
 | --------------- | ---------- | --------------- |
@@ -31,7 +31,7 @@ A tabela abaixo mostra a estrutura do requisito RF22.
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 
-**Tabela 40:** Artefatos Gerados pelo requisito RF22.
+**Tabela 92:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato | Identificador | Rastreabilidade |
 | -------- | ------------- | --------------- |
@@ -47,7 +47,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 #### Elos
 A tabela abaixo mostra os elos do requisito RF22.
 
-**Tabela 41:** Elos do requisito RF22.
+**Tabela 93:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados |
 | ----------- | --------- | --------------------- | ---------------- | ----------------------- |
@@ -59,7 +59,10 @@ A tabela abaixo mostra os elos do requisito RF22.
 
 <details>
   <summary><b> RF23 - Pedro Izarias  </b></summary>
+A tabela abaixo mostra as versões do requisito RF23.
 
+**Tabela 94:** Versão do requisito RF22.
+  
 #### Versões do Requisito
 
 | Versão                              | Rastreabilidade                                  |
@@ -69,6 +72,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 - **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
+A tabela abaixo mostra a estrutura do requisito RF22.
+
+**Tabela 91:** Estrutura do requisito RF22.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -80,6 +86,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 | Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a funcionalidade de notificação. | -                                                   |
 
 #### Artefatos Gerados Pelos Requisitos Funcionais
+A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
+
+**Tabela 92:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -90,6 +99,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 | História de Usuário                 | [HI23 - Gerenciar notificações pelo aplicativo](modelagemAgil/historiaUsuario.md)           | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
+A tabela abaixo mostra os elos do requisito RF22.
+
+**Tabela 93:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
@@ -99,6 +111,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 
 <details>
   <summary><b> RF24 - Pedro Izarias  </b></summary>
+A tabela abaixo mostra as versões do requisito RF23.
+
+**Tabela 94:** Versão do requisito RF22.
 
 #### Versões do Requisito
 
@@ -109,6 +124,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 - **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
+A tabela abaixo mostra a estrutura do requisito RF22.
+
+**Tabela 91:** Estrutura do requisito RF22.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -120,6 +138,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 | Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a funcionalidade de feedback. | -                                                   |
 
 #### Artefatos Gerados Pelos Requisitos Funcionais
+A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
+
+**Tabela 92:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -130,6 +151,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 | História de Usuário                 | [HI24 - Enviar feedback sobre a aplicação](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
+A tabela abaixo mostra os elos do requisito RF22.
+
+**Tabela 93:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
@@ -139,6 +163,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 
 <details>
   <summary><b> RF25 - Pedro Izarias  </b></summary>
+A tabela abaixo mostra as versões do requisito RF23.
+
+**Tabela 94:** Versão do requisito RF22.
 
 #### Versões do Requisito
 
@@ -149,6 +176,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 - **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
+A tabela abaixo mostra a estrutura do requisito RF22.
+
+**Tabela 91:** Estrutura do requisito RF22.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -160,6 +190,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 | Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de contratos de trabalho na empresa. | -                                                   |
 
 #### Artefatos Gerados Pelos Requisitos Funcionais
+A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
+
+**Tabela 92:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -170,6 +203,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 | História de Usuário                 | [HI25 - Gerenciar contratos de trabalho na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
+A tabela abaixo mostra os elos do requisito RF22.
+
+**Tabela 93:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
@@ -179,6 +215,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 
 <details>
   <summary><b> RF26 - Pedro Izarias  </b></summary>
+A tabela abaixo mostra as versões do requisito RF23.
+
+**Tabela 94:** Versão do requisito RF22.
 
 #### Versões do Requisito
 
@@ -189,6 +228,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 - **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
+A tabela abaixo mostra a estrutura do requisito RF22.
+
+**Tabela 91:** Estrutura do requisito RF22.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -200,6 +242,9 @@ A tabela abaixo mostra os elos do requisito RF22.
 | Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de benefícios trabalhistas na empresa. | -                                                   |
 
 #### Artefatos Gerados Pelos Requisitos Funcionais
+A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
+
+**Tabela 92:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -210,19 +255,21 @@ A tabela abaixo mostra os elos do requisito RF22.
 | História de Usuário                 | [HI26 - Gerenciar benefícios trabalhistas na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
+A tabela abaixo mostra os elos do requisito RF22.
+
+**Tabela 93:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
 | Recurso     | Desenvolvimento   | - Módulo de gestão de benefícios <br> - Banco de Dados para Armazenamento de Benefícios | O módulo de gestão de benefícios junto com o banco de dados para armazenar os benefícios **são recursos** para o requisito de gerenciar benefícios trabalhistas na empresa. | RF27: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
 
-### Conclusão
-
-Esta estrutura cobre todos os aspectos essenciais do requisito RF26, desde sua definição até a rastreabilidade dos artefatos gerados e dos elos relacionados. Verifique e ajuste os links e referências conforme necessário para corresponder ao contexto do seu projeto específico.
-
 </details>
 
 <details>
   <summary><b> RF27 - Pedro Izarias  </b></summary>
+A tabela abaixo mostra as versões do requisito RF23.
+
+**Tabela 94:** Versão do requisito RF22.
 
 #### Versões do Requisito
 
@@ -233,6 +280,9 @@ Esta estrutura cobre todos os aspectos essenciais do requisito RF26, desde sua d
 - **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
+A tabela abaixo mostra a estrutura do requisito RF22.
+
+**Tabela 91:** Estrutura do requisito RF22.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -244,6 +294,9 @@ Esta estrutura cobre todos os aspectos essenciais do requisito RF26, desde sua d
 | Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de benefícios trabalhistas na empresa. | -                                                   |
 
 #### Artefatos Gerados Pelos Requisitos Funcionais
+A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
+
+**Tabela 92:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -254,19 +307,21 @@ Esta estrutura cobre todos os aspectos essenciais do requisito RF26, desde sua d
 | História de Usuário                 | [HI27 - Gerenciar benefícios trabalhistas na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
+A tabela abaixo mostra os elos do requisito RF22.
+
+**Tabela 93:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
 | Recurso     | Desenvolvimento   | - Módulo de gestão de benefícios <br> - Banco de Dados para Armazenamento de Benefícios | O módulo de gestão de benefícios junto com o banco de dados para armazenar os benefícios **são recursos** para o requisito de gerenciar benefícios trabalhistas na empresa. | RF26: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
 
-### Conclusão
-
-Esta estrutura abrange todos os elementos essenciais do requisito RF27, desde sua definição até a rastreabilidade dos artefatos gerados e dos elos relacionados. Verifique e ajuste os links e referências conforme necessário para se adequarem ao contexto específico do seu projeto.
-
 </details>
 
 <details>
   <summary><b> RF28 - Pedro Izarias  </b></summary>
+A tabela abaixo mostra as versões do requisito RF23.
+
+**Tabela 94:** Versão do requisito RF22.
 
 #### Versões do Requisito
 
@@ -278,6 +333,9 @@ Esta estrutura abrange todos os elementos essenciais do requisito RF27, desde su
 - **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
+A tabela abaixo mostra a estrutura do requisito RF22.
+
+**Tabela 91:** Estrutura do requisito RF22.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -289,6 +347,9 @@ Esta estrutura abrange todos os elementos essenciais do requisito RF27, desde su
 | Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de dados dos funcionários na empresa. | -                                                   |
 
 #### Artefatos Gerados Pelos Requisitos Funcionais
+A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
+
+**Tabela 92:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -299,10 +360,12 @@ Esta estrutura abrange todos os elementos essenciais do requisito RF27, desde su
 | História de Usuário                 | [HI28 - Gerenciar dados pessoais e contratuais de funcionários na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
+A tabela abaixo mostra os elos do requisito RF22.
+
+**Tabela 93:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
 | Recurso     | Desenvolvimento   | - Módulo de gestão de dados pessoais e contratuais <br> - Banco de Dados para Armazenamento de Dados dos Funcionários | O módulo de gestão de dados pessoais e contratuais junto com o banco de dados para armazenar esses dados **são recursos** para o requisito de gerenciar dados pessoais e contratuais de funcionários na empresa. | RF27: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
 
 </details>
-
