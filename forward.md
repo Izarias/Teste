@@ -296,7 +296,7 @@ A tabela abaixo mostra a estrutura do requisito RF22.
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 
-**Tabela 113:** Artefatos Gerados pelo requisito RF22.
+**Tabela 112:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -309,7 +309,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF22.
 
-**Tabela 114:** Elos do requisito RF22.
+**Tabela 113:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
@@ -321,7 +321,7 @@ A tabela abaixo mostra os elos do requisito RF22.
   <summary><b> RF28 - Pedro Izarias  </b></summary>
 A tabela abaixo mostra as versões do requisito RF23.
 
-**Tabela 115:** Versão do requisito RF22.
+**Tabela 114:** Versão do requisito RF22.
 
 #### Versões do Requisito
 
@@ -335,7 +335,7 @@ A tabela abaixo mostra as versões do requisito RF23.
 #### Estrutura de Desenvolvimento do Requisito
 A tabela abaixo mostra a estrutura do requisito RF22.
 
-**Tabela 116:** Estrutura do requisito RF22.
+**Tabela 115:** Estrutura do requisito RF22.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -349,7 +349,7 @@ A tabela abaixo mostra a estrutura do requisito RF22.
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 
-**Tabela 117:** Artefatos Gerados pelo requisito RF22.
+**Tabela 116:** Artefatos Gerados pelo requisito RF22.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
@@ -362,7 +362,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF22.
 
-**Tabela 118:** Elos do requisito RF22.
+**Tabela 117:** Elos do requisito RF22.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
