@@ -93,7 +93,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF23.
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
 | Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
-| Léxico                              | - Verbo: Consultar Vínculos Empregatícios <br> - Objeto: Contrato de Trabalho - Vínculo Empregatício | [Léxicos](modelagem/lexico.md)                |
+| Léxico                              | - Verbo: Consultar Vínculos Empregatícios <br> - Objeto: Contrato de Trabalho <br>- Vínculo Empregatício | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC05 - Configurar preferências de notificação](modelagem/casoDeUso.md)                   | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI05 - Integração com serviço de notificações push](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON05 - O sistema deve garantir a entrega de notificações em tempo real](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 | [HI23 - Gerenciar notificações pelo aplicativo](modelagemAgil/historiaUsuario.md)           | [História de Usuário](modelagemAgil/historiaUsuario.md) |
