@@ -10,7 +10,7 @@ A tabela abaixo mostra as versões do requisito RF22.
 | ------ | --------------- |
 | Versão 1 | [RF22](Elicitacao/ResquisitosCorrigidos.md) |
 
-**Autora:** [Pedro Izarias](https://github.com/Izarias)
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
 A tabela abaixo mostra a estrutura do requisito RF22.
@@ -26,7 +26,7 @@ A tabela abaixo mostra a estrutura do requisito RF22.
 | Correção de Defeitos | Através de relatórios e de feedbacks de usuários. | Não foi necessário corrigir falhas para esse requisito. |
 | Análise de impacto na evolução | Baixo impacto: Afeta principalmente a interface de usuário e a atualização de dados de funcionários. | - |
 
-**Autora:** [Pedro Izarias](https://github.com/Izarias)
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
@@ -42,7 +42,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 | História de Usuário | [HI22 - Atualizar dados do funcionário](modelagemAgil/historiaUsuario.md) | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 | Backlog | <li> [Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md) <br> <li> [Épico: EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI22 - Como usuário, eu quero atualizar os dados dos funcionários para manter as informações atualizadas.](modelagemAgil/backlog.md) | [Backlog](modelagemAgil/backlog.md) |
 
-**Autora:** [Pedro Izarias](https://github.com/Izarias)
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Elos
 A tabela abaixo mostra os elos do requisito RF22.
@@ -53,7 +53,7 @@ A tabela abaixo mostra os elos do requisito RF22.
 | ----------- | --------- | --------------------- | ---------------- | ----------------------- |
 | Recurso | Desenvolvimento | <li> Módulo de Atualização de Dados <br> <li> Base de Dados de Funcionários <br> <li> Componentes de Interface para Atualização de Dados | O Módulo de Atualização de Dados utiliza a Base de Dados de Funcionários e os Componentes de Interface para permitir a atualização dos dados dos funcionários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF06: Usuário trabalhador pode atualizar contratos de trabalho <br> <li> RF14: Usuário trabalhador pode atualizar(declarar) currículo <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <br> Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
 
-**Autora:** [Pedro Izarias](https://github.com/Izarias)
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
 
@@ -66,9 +66,7 @@ A tabela abaixo mostra os elos do requisito RF22.
 | ----------------------------------- | ------------------------------------------------ |
 | Versão 1                            | [RF23](Elicitacao/ResquisitosCorrigidos.md)      |
 
-#### Autora
-
-- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
 
@@ -108,9 +106,7 @@ A tabela abaixo mostra os elos do requisito RF22.
 | ----------------------------------- | ------------------------------------------------ |
 | Versão 1                            | [RF24](Elicitacao/ResquisitosCorrigidos.md)      |
 
-#### Autora
-
-- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
 
@@ -150,9 +146,7 @@ A tabela abaixo mostra os elos do requisito RF22.
 | ----------------------------------- | ------------------------------------------------ |
 | Versão 1                            | [RF25](Elicitacao/ResquisitosCorrigidos.md)      |
 
-#### Autora
-
-- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
 
@@ -192,9 +186,7 @@ A tabela abaixo mostra os elos do requisito RF22.
 | ----------------------------------- | ------------------------------------------------ |
 | Versão 1                            | [RF26](Elicitacao/ResquisitosCorrigidos.md)      |
 
-#### Autora
-
-- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
 
@@ -238,9 +230,7 @@ Esta estrutura cobre todos os aspectos essenciais do requisito RF26, desde sua d
 | ----------------------------------- | ------------------------------------------------ |
 | Versão 1                            | [RF27](Elicitacao/ResquisitosCorrigidos.md)      |
 
-#### Autora
-
-- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
 
@@ -284,9 +274,8 @@ Esta estrutura abrange todos os elementos essenciais do requisito RF27, desde su
 | ----------------------------------- | ------------------------------------------------ |
 | Versão 1                            | [RF28](Elicitacao/ResquisitosCorrigidos.md)      |
 
-#### Autora
 
-- **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 #### Estrutura de Desenvolvimento do Requisito
 
