@@ -40,7 +40,6 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 | Casos de Uso | Não Possui | - |
 | Especificação Suplementar | **Para a implementação:** <br> <li> RI01 - Integração com eSocial <br> <li> RI03 - Permitir integração com vários outros softwares <br> <br> **Para a confiabilidade:** <br> <li> CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade. <br> <li> CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho. | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário | HI05 - Alterar os dados do perfil  | [História de Usuário](modelagemAgil/historiaUsuario.md) |
-| Backlog | <li> [Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md) <br> <li> [Épico: EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI22 - Como usuário, eu quero atualizar os dados dos funcionários para manter as informações atualizadas.](modelagemAgil/backlog.md) | [Backlog](modelagemAgil/backlog.md) |
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
