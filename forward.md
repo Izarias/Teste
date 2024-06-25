@@ -39,7 +39,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 | Léxico | **Verbo:** <br> <li> Atualizar dados pessoais <br> <br> **Objeto:** <br> <li> Perfil do Trabalhador  <br>  | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md) <br> <li> [UC10 - Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md) | [Casos de Uso](modelagem/casoDeUso.md) |
 | Especificação Suplementar | **Para a implementação:** <br> <li> RI01 - Integração com eSocial <br> <li> RI03 - Permitir integração com vários outros softwares <br> <br> **Para a confiabilidade:** <br> <li> CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade. <br> <li> CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho. | [Especificação Suplementar](modelagem/especSuplementar.md) |
-| História de Usuário | [HI22 - Atualizar dados do funcionário](modelagemAgil/historiaUsuario.md) | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+| História de Usuário | HI05 - Alterar os dados do perfil  | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 | Backlog | <li> [Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md) <br> <li> [Épico: EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI22 - Como usuário, eu quero atualizar os dados dos funcionários para manter as informações atualizadas.](modelagemAgil/backlog.md) | [Backlog](modelagemAgil/backlog.md) |
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
@@ -96,7 +96,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF23.
 | Léxico                              | - Verbo: Consultar Vínculos Empregatícios <br> - Objeto: <br> Contrato de Trabalho <br>- Vínculo Empregatício | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC05 - Configurar preferências de notificação](modelagem/casoDeUso.md)                   | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI05 - Integração com serviço de notificações push](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON05 - O sistema deve garantir a entrega de notificações em tempo real](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
-| História de Usuário                 | [HI23 - Gerenciar notificações pelo aplicativo](modelagemAgil/historiaUsuario.md)           | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+| História de Usuário                 |  HI06 - Visualizar contratos Antigo <br> HI08 - Visualizar gráficos de contratos <br> HI11 - Visualizar contratos Antigos    | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF23.
@@ -148,7 +148,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF24.
 | Léxico                              | - Verbo: Emitir PDF do Contrato de Trabalho <br> - Objeto: Informação do Contrato | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC06 - Enviar feedback sobre a aplicação](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI06 - Integração com sistema de gerenciamento de feedbacks](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON06 - O sistema deve processar feedbacks de forma eficiente](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
-| História de Usuário                 | [HI24 - Enviar feedback sobre a aplicação](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+| História de Usuário                 |   HI22 - Visualizar relatório de atividades da conta.   | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF24.
@@ -200,7 +200,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF25.
 | Léxico                              | - Verbo: <br>Adicionar Novo Contrato de Trabalho <br> Atualizar dados pessoais <br> - Objeto: Contrato de Trabalho <br> - Estado: <br> Contrato Ativo <br> Contrato Finalizado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC12 - Gerenciar contratos de trabalho](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI12 - Integração com sistema de gestão de contratos](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON09 - O sistema deve garantir a integridade dos dados de contratos](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
-| História de Usuário                 | [HI25 - Gerenciar contratos de trabalho na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+| História de Usuário                 | HI09 - Realizar anotações em contratos <br> HI17 - Alterar Dados de Contrato     | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF25.
@@ -252,7 +252,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF26.
 | Léxico                              |  - Objeto: Benefício | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC13 - Gerenciar benefícios trabalhistas](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI13 - Integração com sistema de gestão de benefícios](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON10 - O sistema deve garantir a integridade dos dados de benefícios](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
-| História de Usuário                 | [HI26 - Gerenciar benefícios trabalhistas na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+| História de Usuário                 | HI12 - Solicitar benefícios    | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF26.
@@ -304,7 +304,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF27.
 | Léxico                              | - Verbo: Solicitar Benefício <br> - Objeto: Benefício <br> - Estado: Benefício Aprovado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC13 - Gerenciar benefícios trabalhistas](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI13 - Integração com sistema de gestão de benefícios](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON10 - O sistema deve garantir a integridade dos dados de benefícios](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
-| História de Usuário                 | [HI27 - Gerenciar benefícios trabalhistas na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+| História de Usuário                 | HI14 -  manual a respeito dos benefícios que tenho direito <br> HI13 -  Consultar dados a respeito de INSS e FGTS <br> HI11 - Visualizar contratos Antigos     | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF27.
@@ -357,7 +357,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF28.
 | Léxico                              |  - Estado: Conexão Estável <br> Não Autorizado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC14 - Gerenciar dados pessoais e contratuais de funcionários](modelagem/casoDeUso.md)  | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI14 - Integração com sistema de gestão de dados](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON11 - O sistema deve garantir a segurança e privacidade dos dados dos funcionários](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
-| História de Usuário                 | [HI28 - Gerenciar dados pessoais e contratuais de funcionários na empresa](modelagemAgil/historiaUsuario.md)               | [História de Usuário](modelagemAgil/historiaUsuario.md) |
+| História de Usuário                 |     HI18 - Publicar Vagas Disponíveis no Mural de Vagas <br>   HI20 - Status de contratação   | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF28.
