@@ -153,7 +153,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF24.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Exportar Relatório de Vínculos Empregatícios                  | -                                             |
+| Cenário                             | - Exportar Relatório de Vínculos Empregatícios                  | [Cenários](modelagem/cenarios.md)                                 |
 | Léxico                              | - Verbo: Emitir PDF do Contrato de Trabalho <br> - Objeto: Informação do Contrato | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        |       Não Possui              | -      |
 | Especificação Suplementar           | - Para a implementação: [RI06 - Seguir os manuais de interface de acordo com o gov.br.](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON06 - O sistema deve impedir que o usuário realize atividades que possam colocar a integridade do sistema e de outros usuários em risco.](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -211,7 +211,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF25.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Atualização dos Contratos de Trabalho                   | -                                             |
+| Cenário                             | - Atualização dos Contratos de Trabalho                   | [Cenários](modelagem/cenarios.md)                                            |
 | Léxico                              | - Verbo: <br>Adicionar Novo Contrato de Trabalho <br> Atualizar dados pessoais <br> - Objeto: Contrato de Trabalho <br> - Estado: <br> Contrato Ativo <br> Contrato Finalizado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        |    Não Possui     | -        |
 | Especificação Suplementar           |  - Para a confiabilidade: [CON04 - O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD).](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -269,7 +269,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF26.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Criação do cenário Solicitar Benefício                   | -                                             |
+| Cenário                             | - Criação do cenário Solicitar Benefício                   | [Cenários](modelagem/cenarios.md)                                            |
 | Léxico                              |  - Objeto: Benefício | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        |     Não Possui        | -       |
 | Especificação Suplementar           | - Para a confiabilidade: [CON05 - O sistema deve permitir que o usuário se recupere de problemas e erros.](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -327,7 +327,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF27.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Consultar Seguro Desemprego                | -                                             |
+| Cenário                             | - Consultar Seguro Desemprego                | [Cenários](modelagem/cenarios.md)             |
 | Léxico                              | - Verbo: Solicitar Benefício <br> - Objeto: Benefício <br> - Estado: Benefício Aprovado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | Não Possui      | -       |
 | Especificação Suplementar           | - Para a confiabilidade: [CON06 - O sistema deve impedir que o usuário realize atividades que possam colocar a integridade do sistema e de outros usuários em risco. ](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -386,7 +386,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF28.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Escolher Modo de Status de Procura de Emprego                  | -                                             |
+| Cenário                             | - Escolher Modo de Status de Procura de Emprego                  | [Cenários](modelagem/cenarios.md)                          |
 | Léxico                              |  - Estado: Conexão Estável <br> Não Autorizado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | Não Possui  | -    |
 | Especificação Suplementar           | - Para a implementação: [RI08 - Garantir as condições de preservação da privacidade das informações do cidadão.](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
