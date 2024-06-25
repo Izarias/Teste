@@ -35,7 +35,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF22.
 
 | Artefato | Identificador | Rastreabilidade |
 | -------- | ------------- | --------------- |
-| Cenário | <li> [Visualizar aba "Emprego"](modelagem/cenarios.md) <br> <li> [Atualização dos Contratos de Trabalho](modelagem/cenarios.md) | [Cenários](modelagem/cenarios.md) |
+| Cenário | <li> Atualização das Informações pessoais | [Cenários](modelagem/cenarios.md) |
 | Léxico | **Verbo:** <br> <li> Atualizar dados pessoais <br> <br> **Objeto:** <br> <li> Perfil do Trabalhador  <br>  | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md) <br> <li> [UC10 - Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md) | [Casos de Uso](modelagem/casoDeUso.md) |
 | Especificação Suplementar | **Para a implementação:** <br> <li> RI01 - Integração com eSocial <br> <li> RI03 - Permitir integração com vários outros softwares <br> <br> **Para a confiabilidade:** <br> <li> CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade. <br> <li> CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho. | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -145,7 +145,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF24.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Cenário                             | - Exportar Relatório de Vínculos Empregatícios                  | -                                             |
 | Léxico                              | - Verbo: Emitir PDF do Contrato de Trabalho <br> - Objeto: Informação do Contrato | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC06 - Enviar feedback sobre a aplicação](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI06 - Integração com sistema de gerenciamento de feedbacks](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON06 - O sistema deve processar feedbacks de forma eficiente](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -197,7 +197,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF25.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Cenário                             | - Atualização dos Contratos de Trabalho                   | -                                             |
 | Léxico                              | - Verbo: <br>Adicionar Novo Contrato de Trabalho <br> Atualizar dados pessoais <br> - Objeto: Contrato de Trabalho <br> - Estado: <br> Contrato Ativo <br> Contrato Finalizado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC12 - Gerenciar contratos de trabalho](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI12 - Integração com sistema de gestão de contratos](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON09 - O sistema deve garantir a integridade dos dados de contratos](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -249,7 +249,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF26.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Cenário                             | - Criação do cenário Solicitar Benefício                   | -                                             |
 | Léxico                              |  - Objeto: Benefício | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC13 - Gerenciar benefícios trabalhistas](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI13 - Integração com sistema de gestão de benefícios](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON10 - O sistema deve garantir a integridade dos dados de benefícios](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -301,7 +301,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF27.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Cenário                             | - Consultar Seguro Desemprego                | -                                             |
 | Léxico                              | - Verbo: Solicitar Benefício <br> - Objeto: Benefício <br> - Estado: Benefício Aprovado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC13 - Gerenciar benefícios trabalhistas](modelagem/casoDeUso.md)                      | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI13 - Integração com sistema de gestão de benefícios](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON10 - O sistema deve garantir a integridade dos dados de benefícios](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
@@ -354,7 +354,7 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF28.
 
 | Artefato                            | Identificador                                           | Rastreabilidade                               |
 | ----------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
-| Cenário                             | - Não foi possível identificar um cenário específico para este requisito.                   | -                                             |
+| Cenário                             | - Escolher Modo de Status de Procura de Emprego                  | -                                             |
 | Léxico                              |  - Estado: Conexão Estável <br> Não Autorizado | [Léxicos](modelagem/lexico.md)                |
 | Casos de Uso                        | - [UC14 - Gerenciar dados pessoais e contratuais de funcionários](modelagem/casoDeUso.md)  | [Casos de Uso](modelagem/casoDeUso.md)        |
 | Especificação Suplementar           | - Para a implementação: [RI14 - Integração com sistema de gestão de dados](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON11 - O sistema deve garantir a segurança e privacidade dos dados dos funcionários](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
