@@ -86,6 +86,8 @@ A tabela abaixo mostra a estrutura do requisito RF23.
 | Correção de Defeitos                | Através de relatórios de feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
 | Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a funcionalidade de notificação. | -                                                   |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF23.
 
@@ -99,6 +101,8 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF23.
 | Especificação Suplementar           | - Para a implementação: [RI05 - Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários.](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON05 - O sistema deve permitir que o usuário se recupere de problemas e erros. ](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 |  HI06 - Visualizar contratos Antigo <br> HI08 - Visualizar gráficos de contratos <br> HI11 - Visualizar contratos Antigos    | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF23.
 
@@ -107,6 +111,8 @@ A tabela abaixo mostra os elos do requisito RF23.
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Consulta de Contratos de Trabalho <br> <li> Banco de Dados para Armazenamento de Contratos de Trabalho <br> <li> Interface de Usuário para Consulta de Contratos. | O banco de dados para armazenar os contratos de trabalho e a interface de usuário para permitir a consulta dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
+
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
 
@@ -138,6 +144,8 @@ A tabela abaixo mostra a estrutura do requisito RF24.
 | Correção de Defeitos                | Através de relatórios de feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
 | Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a funcionalidade de feedback. | -                                                   |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF24.
 
@@ -151,6 +159,8 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF24.
 | Especificação Suplementar           | - Para a implementação: [RI06 - Seguir os manuais de interface de acordo com o gov.br.](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON06 - O sistema deve impedir que o usuário realize atividades que possam colocar a integridade do sistema e de outros usuários em risco.](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 |   HI22 - Visualizar relatório de atividades da conta.   | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF24.
 
@@ -159,6 +169,8 @@ A tabela abaixo mostra os elos do requisito RF24.
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Geração de Relatórios <br> <li> Banco de Dados para Armazenamento de Informações Trabalhistas <br> <li> Interface de Usuário para Geração de Relatórios. | O banco de dados para armazenar as informações trabalhistas e a interface de usuário para permitir a geração de relatórios são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF06: Usuário trabalhador pode consultar benefícios <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
+
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
 
@@ -190,6 +202,8 @@ A tabela abaixo mostra a estrutura do requisito RF25.
 | Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
 | Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de contratos de trabalho na empresa. | -                                                   |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF25.
 
@@ -203,6 +217,8 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF25.
 | Especificação Suplementar           |  - Para a confiabilidade: [CON04 - O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD).](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 | HI09 - Realizar anotações em contratos <br> HI17 - Alterar Dados de Contrato     | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF25.
 
@@ -211,6 +227,8 @@ A tabela abaixo mostra os elos do requisito RF25.
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Contratos de Trabalho <br> <li> Banco de Dados para Armazenamento de Contratos <br> <li> Interface de Usuário para Gerenciamento de Contratos. | O módulo de gerenciamento de contratos de trabalho e a interface de usuário para permitir o gerenciamento são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
+
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
 
@@ -242,6 +260,8 @@ A tabela abaixo mostra a estrutura do requisito RF26.
 | Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
 | Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de benefícios trabalhistas na empresa. | -                                                   |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF26.
 
@@ -255,6 +275,8 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF26.
 | Especificação Suplementar           | - Para a confiabilidade: [CON05 - O sistema deve permitir que o usuário se recupere de problemas e erros.](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 | HI12 - Solicitar benefícios    | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF26.
 
@@ -263,6 +285,8 @@ A tabela abaixo mostra os elos do requisito RF26.
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Cadastro de Benefícios <br> <li> Banco de Dados para Armazenamento de Benefícios <br> <li> Interface de Usuário para Cadastro de Benefícios. | O módulo de cadastro de benefícios e a interface de usuário para permitir o cadastro são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF07: Usuário trabalhador pode consultar dados de contato <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
+
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
 
@@ -294,6 +318,8 @@ A tabela abaixo mostra a estrutura do requisito RF27.
 | Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
 | Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de benefícios trabalhistas na empresa. | -                                                   |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF27.
 
@@ -307,6 +333,8 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF27.
 | Especificação Suplementar           | - Para a confiabilidade: [CON06 - O sistema deve impedir que o usuário realize atividades que possam colocar a integridade do sistema e de outros usuários em risco. ](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 | HI14 -  manual a respeito dos benefícios que tenho direito <br> HI13 -  Consultar dados a respeito de INSS e FGTS <br> HI11 - Visualizar contratos Antigos     | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF27.
 
@@ -315,6 +343,8 @@ A tabela abaixo mostra os elos do requisito RF27.
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Benefícios Trabalhistas <br> <li> Banco de Dados para Armazenamento de Benefícios <br> <li> Interface de Usuário para Gerenciamento de Benefícios. | O módulo de gerenciamento de benefícios trabalhistas e a interface de usuário para permitir o gerenciamento são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF08: Usuário pode gerenciar informações trabalhistas <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
+
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
 
@@ -345,8 +375,10 @@ A tabela abaixo mostra a estrutura do requisito RF28.
 | Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
 | Verificação                         | Verificar se a funcionalidade permite acesso, atualização e gerenciamento eficiente dos dados pessoais e contratuais dos funcionários. | Será realizada pelo grupo em breve                   |
 | Correção de Defeitos                | Através de relatórios de erros e feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do desenvolvimento. |
-| Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de dados dos funcionários na empresa. | -                                                   |
+| Análise de impacto na evolução      | Médio impacto: Afeta diretamente a gestão de recursos humanos e a administração de dados dos funcionários na empresa. | -       |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+- 
 #### Artefatos Gerados Pelos Requisitos Funcionais
 A tabela abaixo mostra os artefatos gerados pelo requisito RF28.
 
@@ -360,6 +392,8 @@ A tabela abaixo mostra os artefatos gerados pelo requisito RF28.
 | Especificação Suplementar           | - Para a implementação: [RI08 - Garantir as condições de preservação da privacidade das informações do cidadão.](modelagem/especSuplementar.md) <br> - Para a confiabilidade: [CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.](modelagem/especSuplementar.md) | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 |     HI18 - Publicar Vagas Disponíveis no Mural de Vagas <br>   HI20 - Status de contratação   | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 #### Os Elos
 A tabela abaixo mostra os elos do requisito RF28.
 
@@ -368,5 +402,7 @@ A tabela abaixo mostra os elos do requisito RF28.
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
 | Recurso | Desenvolvimento | <li> Interface de Usuário para Configuração de Status de Vagas de Emprego <br> <li> Integração com Sistema para Atualização em Tempo Real <br> <li> Garantia de Acessibilidade das Informações aos Candidatos. | A interface para configuração do status e a integração com o sistema são recursos essenciais para o requisito. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF10: Usuário pode buscar vagas de emprego disponíveis <br> <br>  Requisitos não funcionais: <br> <li> RNF15: O sistema deve garantir que as informações de vagas de emprego sejam atualizadas em tempo real.|
+
+- **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </details>
