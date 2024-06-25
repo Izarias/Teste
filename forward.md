@@ -49,9 +49,10 @@ A tabela abaixo mostra os elos do requisito RF22.
 
 **Tabela 93:** Elos do requisito RF22.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados |
-| ----------- | --------- | --------------------- | ---------------- | ----------------------- |
-| Recurso | Desenvolvimento | <li> Módulo de Atualização de Dados <br> <li> Base de Dados de Funcionários <br> <li> Componentes de Interface para Atualização de Dados | O Módulo de Atualização de Dados utiliza a Base de Dados de Funcionários e os Componentes de Interface para permitir a atualização dos dados dos funcionários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF06: Usuário trabalhador pode atualizar contratos de trabalho <br> <li> RF14: Usuário trabalhador pode atualizar(declarar) currículo <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <br> Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Atualização de Dados de Funcionários <br> <li> Banco de Dados para Armazenamento de Dados de Funcionários <br> <li> Interface de Usuário para Atualização de Dados. | O banco de dados para armazenar os dados dos funcionários atualizados e a interface de usuário para permitir a atualização dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF03: Usuário pode consultar suas informações pessoais <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <br>  Requisitos não funcionais: <br> <li> RNF14: O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
+
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
@@ -104,8 +105,8 @@ A tabela abaixo mostra os elos do requisito RF23.
 **Tabela 97:** Elos do requisito RF23.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
-| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
-| Recurso     | Desenvolvimento   | - Módulo de gerenciamento de notificações <br> - Serviço de envio de notificações push <br> - Interface de usuário para configuração de preferências de notificação | O módulo de gerenciamento de notificações junto com o serviço de envio de notificações e a interface de usuário para configuração de preferências **são recursos** para o requisito de gerenciar notificações. | RF12: Usuário pode configurar suas preferências de notificação <br> RF18: Sistema deve garantir a entrega de notificações em tempo real |
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Consulta de Contratos de Trabalho <br> <li> Banco de Dados para Armazenamento de Contratos de Trabalho <br> <li> Interface de Usuário para Consulta de Contratos. | O banco de dados para armazenar os contratos de trabalho e a interface de usuário para permitir a consulta dessas informações são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
 
 </details>
 
@@ -156,8 +157,8 @@ A tabela abaixo mostra os elos do requisito RF24.
 **Tabela 101:** Elos do requisito RF24.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
-| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
-| Recurso     | Desenvolvimento   | - Módulo de envio de feedbacks <br> - Serviço de recebimento e processamento de feedbacks | O módulo de envio de feedbacks junto com o serviço de recebimento e processamento **são recursos** para o requisito de enviar feedbacks sobre a aplicação. | RF13: Usuário pode enviar feedbacks sobre funcionalidades <br> RF19: Sistema deve processar feedbacks de forma eficiente |
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Geração de Relatórios <br> <li> Banco de Dados para Armazenamento de Informações Trabalhistas <br> <li> Interface de Usuário para Geração de Relatórios. | O banco de dados para armazenar as informações trabalhistas e a interface de usuário para permitir a geração de relatórios são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF06: Usuário trabalhador pode consultar benefícios <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
 </details>
 
@@ -208,8 +209,8 @@ A tabela abaixo mostra os elos do requisito RF25.
 **Tabela 105:** Elos do requisito RF25.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
-| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
-| Recurso     | Desenvolvimento   | - Módulo de gestão de contratos <br> - Banco de Dados para Armazenamento de Contratos | O módulo de gestão de contratos junto com o banco de dados para armazenar os contratos **são recursos** para o requisito de gerenciar contratos de trabalho na empresa. | RF13: Usuário pode gerenciar contratos de trabalho <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Contratos de Trabalho <br> <li> Banco de Dados para Armazenamento de Contratos <br> <li> Interface de Usuário para Gerenciamento de Contratos. | O módulo de gerenciamento de contratos de trabalho e a interface de usuário para permitir o gerenciamento são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <br>  Requisitos não funcionais: <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
 
 </details>
 
@@ -260,8 +261,8 @@ A tabela abaixo mostra os elos do requisito RF26.
 **Tabela 109:** Elos do requisito RF26.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
-| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
-| Recurso     | Desenvolvimento   | - Módulo de gestão de benefícios <br> - Banco de Dados para Armazenamento de Benefícios | O módulo de gestão de benefícios junto com o banco de dados para armazenar os benefícios **são recursos** para o requisito de gerenciar benefícios trabalhistas na empresa. | RF27: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Cadastro de Benefícios <br> <li> Banco de Dados para Armazenamento de Benefícios <br> <li> Interface de Usuário para Cadastro de Benefícios. | O módulo de cadastro de benefícios e a interface de usuário para permitir o cadastro são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF07: Usuário trabalhador pode consultar dados de contato <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
 </details>
 
@@ -312,8 +313,8 @@ A tabela abaixo mostra os elos do requisito RF27.
 **Tabela 113:** Elos do requisito RF27.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
-| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
-| Recurso     | Desenvolvimento   | - Módulo de gestão de benefícios <br> - Banco de Dados para Armazenamento de Benefícios | O módulo de gestão de benefícios junto com o banco de dados para armazenar os benefícios **são recursos** para o requisito de gerenciar benefícios trabalhistas na empresa. | RF26: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Benefícios Trabalhistas <br> <li> Banco de Dados para Armazenamento de Benefícios <br> <li> Interface de Usuário para Gerenciamento de Benefícios. | O módulo de gerenciamento de benefícios trabalhistas e a interface de usuário para permitir o gerenciamento são recursos necessários. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF08: Usuário pode gerenciar informações trabalhistas <br> <br>  Requisitos não funcionais: <br> <li> RNF12: O sistema deve permitir a exportação de dados em formatos compatíveis com outros sistemas de gestão.|
 
 </details>
 
@@ -365,7 +366,7 @@ A tabela abaixo mostra os elos do requisito RF28.
 **Tabela 117:** Elos do requisito RF28.
 
 | Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
-| ----------- | ----------------- | -------------------------------------------------------- | --------------- | ----------------------- |
-| Recurso     | Desenvolvimento   | - Módulo de gestão de dados pessoais e contratuais <br> - Banco de Dados para Armazenamento de Dados dos Funcionários | O módulo de gestão de dados pessoais e contratuais junto com o banco de dados para armazenar esses dados **são recursos** para o requisito de gerenciar dados pessoais e contratuais de funcionários na empresa. | RF27: Usuário empresa pode gerenciar benefícios trabalhistas <br> RF22: Usuário empresa pode atualizar dados dos funcionários |
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Interface de Usuário para Configuração de Status de Vagas de Emprego <br> <li> Integração com Sistema para Atualização em Tempo Real <br> <li> Garantia de Acessibilidade das Informações aos Candidatos. | A interface para configuração do status e a integração com o sistema são recursos essenciais para o requisito. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF10: Usuário pode buscar vagas de emprego disponíveis <br> <br>  Requisitos não funcionais: <br> <li> RNF15: O sistema deve garantir que as informações de vagas de emprego sejam atualizadas em tempo real.|
 
 </details>
