@@ -78,7 +78,7 @@ A tabela abaixo mostra a estrutura do requisito RF23.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Nome do Requisito                   | Usuário pode gerenciar suas notificações por meio do aplicativo                             | [RF23](Elicitacao/ResquisitosCorrigidos.md)         |
+| Nome do Requisito                   | Usuário empresa pode consultar contratos de trabalho                            | [RF23](Elicitacao/ResquisitosCorrigidos.md)         |
 | Alocação no App                     | Na área de configurações de perfil do usuário e dentro de cada seção de notificações específicas | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
 | Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas depende da funcionalidade de envio e recebimento de notificações. | -                                                   |
 | Verificação                         | Verificar se o usuário pode configurar suas preferências de notificação e se as notificações são entregues corretamente. | Será realizada pelo grupo em breve                   |
@@ -130,7 +130,7 @@ A tabela abaixo mostra a estrutura do requisito RF24.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Nome do Requisito                   | Usuário pode enviar feedbacks sobre a aplicação                                             | [RF24](Elicitacao/ResquisitosCorrigidos.md)         |
+| Nome do Requisito                   | Usuário empresa pode gerar relatórios trabalhistas                                           | [RF24](Elicitacao/ResquisitosCorrigidos.md)         |
 | Alocação no App                     | Na área de configurações de perfil do usuário e dentro de cada seção de feedback específica | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
 | Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas depende da funcionalidade de envio e recebimento de feedbacks. | -                                                   |
 | Verificação                         | Verificar se o usuário pode acessar a função de enviar feedbacks e se esses feedbacks são recebidos e processados corretamente. | Será realizada pelo grupo em breve                   |
@@ -234,7 +234,7 @@ A tabela abaixo mostra a estrutura do requisito RF26.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Nome do Requisito                   | Usuário empresa pode gerenciar benefícios trabalhistas (adicionar novos, atualizar já existentes e encerrar benefícios) | [RF26](Elicitacao/ResquisitosCorrigidos.md)         |
+| Nome do Requisito                   | Usuário empresa pode cadastrar benefícios para a empresa | [RF26](Elicitacao/ResquisitosCorrigidos.md)         |
 | Alocação no App                     | Na área de gestão de recursos humanos e na seção de administração de benefícios trabalhistas | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
 | Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
 | Verificação                         | Verificar se a funcionalidade permite adicionar, atualizar e encerrar benefícios trabalhistas de forma eficiente e segura. | Será realizada pelo grupo em breve                   |
@@ -286,7 +286,7 @@ A tabela abaixo mostra a estrutura do requisito RF27.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Nome do Requisito                   | Usuário empresa pode gerenciar benefícios trabalhistas (adicionar novos, atualizar já existentes e encerrar benefícios) | [RF27](Elicitacao/ResquisitosCorrigidos.md)         |
+| Nome do Requisito                   | Usuário empresa pode gerenciar benefícios trabalhistas | [RF27](Elicitacao/ResquisitosCorrigidos.md)         |
 | Alocação no App                     | Na área de gestão de recursos humanos e na seção de administração de benefícios trabalhistas | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
 | Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
 | Verificação                         | Verificar se a funcionalidade permite adicionar, atualizar e encerrar benefícios trabalhistas de forma eficiente e segura. | Será realizada pelo grupo em breve                   |
@@ -339,7 +339,7 @@ A tabela abaixo mostra a estrutura do requisito RF28.
 
 | Características                     | Explicação                                                                                  | Rastreabilidade                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Nome do Requisito                   | Usuário empresa pode gerenciar dados pessoais e contratuais de funcionários                 | [RF28](Elicitacao/ResquisitosCorrigidos.md)         |
+| Nome do Requisito                   | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não posui vagas de emprego"                 | [RF28](Elicitacao/ResquisitosCorrigidos.md)         |
 | Alocação no App                     | Na área de gestão de recursos humanos e na seção de administração de dados dos funcionários  | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
 | Resolução de requisitos em conflito | Este requisito não conflita diretamente com outros requisitos, mas requer integração com funcionalidades de gerenciamento de dados e segurança. | -                                                   |
 | Verificação                         | Verificar se a funcionalidade permite acesso, atualização e gerenciamento eficiente dos dados pessoais e contratuais dos funcionários. | Será realizada pelo grupo em breve                   |
