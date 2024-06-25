@@ -1,17 +1,7 @@
-<details>
-  <summary size="20"><b> Tabela x: Trabalhador deseja consultar Seguro Desemprego </b></summary> 
-
-<center>
-
-| Denominação | Consultar Seguro Desemprego |
-| - | - |
-| Objetivo/meta | Consultar requerimentos de Seguro Desemprego do usuário. |
-| Contexto | **Contexto:** O usuário já possui um login ativo na plataforma Carteira de Trabalho Digital através do gov.br. O usuário deseja visualizar o requerimento feito para seu Seguro Desemprego. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema. |
-| Atores | Trabalhador (Usuário Primário);<br> Plataforma gov.br (Usuário Secundário) |
-| Recursos | Smartphone ou tablet;<br> Conexão à internet; <br> Aplicativo Carteira de Trabalho Digital instalado e atualizado;<br> Conta ativa no gov.br para login. |
-| Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa a aba "Menu".<br> 3. O trabalhador seleciona a opção "Benefícios".<br> 4. O trabalhador seleciona a opção "Seguro-Desemprego" <br> 5. O trabalhador seleciona a opção consultar. <br> 6. O sistema exibe os requerimentos feitos pelo usuário para Seguro Desemprego. |
-| Exceção | 1. Se não houverem requerimentos de Seguro Desemprego realizados, a seguinte mensagem é exibida: "Não foram encontrados requerimentos de Seguro Desemprego". |
-| Restrição | 1. O trabalhador deve estar autenticado no sistema para efetuar o cadastro. <br> 2. A conexão com a internet deve estar estável durante o processo de consulta.|
-
-</center>
-</details>
+|         RF22         | Usuário empresa pode atualizar dados dos funcionários   |  Entrevistas e Análise de Documentos    |Incompleto|Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário     |  RF03, RF04, RNF14, RNF18   | 
+|         RF23         | Usuário empresa pode consultar contratos de trabalho   |  Entrevistas e Análise de Documentos    |Incompleto   | Léxicos, Especificação Suplementar, Histórias de Usuário| RF05, RNF18   | 
+|         RF24         | Usuário empresa pode gerar relatórios trabalhistas   |  Entrevistas e Análise de Documentos   |Incompleto|Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário| RF06, RNF12   | 
+|         RF25         | Usuário pode recuperar senha   |  Entrevistas  e Análise de Documentos   |Sim|    Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário     | RF05, RNF18   | 
+|         RF26         | Usuário pode visualizar histórico de contratações   |  Entrevistas e Análise de Documentos    |Incompleto|    Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário     | RF07, RNF12   | 
+|         RF27         | Usuário pode visualizar notificações   |  Entrevistas e Análise de Documentos   |Incompleto|    Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário     | RF08, RNF12   | 
+|         RF28         | Usuário pode visualizar dados de contato da empresa   |  Entrevistas  e Análise de Documentos    |Não|    Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário    | RF10, RNF15   | 
